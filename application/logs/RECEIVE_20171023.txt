@@ -1,0 +1,53 @@
+2017-10-23 09:19:15 - POST_PARAMS:null
+2017-10-23 09:19:15 - POST:149.202.136.54|447960759867|psychics jayson101 what's the weather like where i am?|TMOBILE14UK|1080301595
+2017-10-23 09:19:17 - POST:strBuffer
+2017-10-23 09:19:17 - POST:{"action":"mpush_ir_message","billing":"MT","country":"UK","number":"447960759867","network":"TMOBILE14UK","shortcode":"68899","message":"psychics jayson101 what's the weather like where i am?","request_url":"reply=1&id=1080301595&number=447960759867&network=TMOBILE14UK&message=We+have+received+your+question.+The+charge+to+your+phone+is+%C2%A31.50.+A+Psychic+will+answer+shortly.+More+info%3F+Txt+PSYCHICS+INFO+to+68899.&value=1.5&currency=gbp&cc=psychiccontact&title=&ekey=1a989ce5a9b504b267a810be41c8d114","txtnation_msg_id":"1080301595","random":0}
+2017-10-23 09:19:45 - POST_PARAMS:null
+2017-10-23 09:19:45 - POST:149.202.136.54|447960759867|psychics 0981 will i won the lottery this week?|TMOBILE14UK|1080301861
+2017-10-23 09:19:47 - POST:strBuffer
+2017-10-23 09:19:47 - POST:{"action":"mpush_ir_message","billing":"MT","country":"UK","number":"447960759867","network":"TMOBILE14UK","shortcode":"68899","message":"psychics 0981 will i won the lottery this week?","request_url":"reply=1&id=1080301861&number=447960759867&network=TMOBILE14UK&message=We+have+received+your+question.+The+charge+to+your+phone+is+%C2%A31.50.+A+Psychic+will+answer+shortly.+More+info%3F+Txt+PSYCHICS+INFO+to+68899.&value=1.5&currency=gbp&cc=psychiccontact&title=&ekey=1a989ce5a9b504b267a810be41c8d114","txtnation_msg_id":"1080301861","random":0}
+2017-10-23 09:20:12 - POST_PARAMS:null
+2017-10-23 09:20:12 - POST:149.202.136.54|447960759867|psychics random will it rain on my birthday?|TMOBILE14UK|1080302103
+2017-10-23 09:20:14 - POST:strBuffer
+2017-10-23 09:20:14 - POST:{"action":"mpush_ir_message","billing":"MT","country":"UK","number":"447960759867","network":"TMOBILE14UK","shortcode":"68899","message":"psychics random will it rain on my birthday?","request_url":"reply=1&id=1080302103&number=447960759867&network=TMOBILE14UK&message=Purchase 4 Random Reader Replies. 1st Reader reply is free. Next 3 different reader cost \u00a31.50 per message total \u00a34.50. Send PSYCHICS YES to 68899 to agree.&value=1.5&currency=gbp&cc=psychiccontact&title=&ekey=1a989ce5a9b504b267a810be41c8d114","txtnation_msg_id":"1080302103","random":0}
+2017-10-23 09:20:37 - POST_PARAMS:null
+2017-10-23 09:20:37 - POST:149.202.136.54|447960759867|psychics yes|TMOBILE14UK|1080302312
+2017-10-23 09:20:39 - POST:strBuffer
+2017-10-23 09:27:55 - POST_PARAMS:null
+2017-10-23 09:27:55 - POST:149.202.136.54|447960759867|psychics jayson101 what colour are my eyes?|TMOBILE14UK|1080306481
+2017-10-23 09:27:57 - POST:strBuffer
+2017-10-23 09:27:57 - POST:{"action":"mpush_ir_message","billing":"MT","country":"UK","number":"447960759867","network":"TMOBILE14UK","shortcode":"68899","message":"psychics jayson101 what colour are my eyes?","request_url":"reply=1&id=1080306481&number=447960759867&network=TMOBILE14UK&message=We+have+received+your+question.+The+charge+to+your+phone+is+%C2%A31.50.+A+Psychic+will+answer+shortly.+More+info%3F+Txt+PSYCHICS+INFO+to+68899.&value=1.5&currency=gbp&cc=psychiccontact&title=&ekey=1a989ce5a9b504b267a810be41c8d114","txtnation_msg_id":"1080306481","random":0}
+2017-10-23 09:37:01 - POST_PARAMS:null
+2017-10-23 09:37:01 - POST:149.202.136.54|447960759867|psychics yes|TMOBILE14UK|1080311880
+2017-10-23 09:37:04 - POST:strBuffer
+2017-10-23 09:37:20 - POST_PARAMS:null
+2017-10-23 09:37:20 - POST:149.202.136.54|447960759867|psychics jayson101 what colour are my shoes?|TMOBILE14UK|1080312060
+2017-10-23 09:37:22 - POST:strBuffer
+2017-10-23 09:37:22 - POST:{"action":"mpush_ir_message","billing":"MT","country":"UK","number":"447960759867","network":"TMOBILE14UK","shortcode":"68899","message":"psychics jayson101 what colour are my shoes?","request_url":"reply=1&id=1080312060&number=447960759867&network=TMOBILE14UK&message=We+have+received+your+question.+The+charge+to+your+phone+is+%C2%A31.50.+A+Psychic+will+answer+shortly.+More+info%3F+Txt+PSYCHICS+INFO+to+68899.&value=1.5&currency=gbp&cc=psychiccontact&title=&ekey=1a989ce5a9b504b267a810be41c8d114","txtnation_msg_id":"1080312060","random":0}
+2017-10-23 09:38:14 - POST_PARAMS:null
+2017-10-23 09:38:14 - POST:149.202.136.54|447960759867|psychics 0981 is it my birthday?|TMOBILE14UK|1080312437
+2017-10-23 09:38:16 - POST:strBuffer
+2017-10-23 09:38:16 - POST:{"action":"mpush_ir_message","billing":"MT","country":"UK","number":"447960759867","network":"TMOBILE14UK","shortcode":"68899","message":"psychics 0981 is it my birthday?","request_url":"reply=1&id=1080312437&number=447960759867&network=TMOBILE14UK&message=We+have+received+your+question.+The+charge+to+your+phone+is+%C2%A31.50.+A+Psychic+will+answer+shortly.+More+info%3F+Txt+PSYCHICS+INFO+to+68899.&value=1.5&currency=gbp&cc=psychiccontact&title=&ekey=1a989ce5a9b504b267a810be41c8d114","txtnation_msg_id":"1080312437","random":0}
+2017-10-23 09:47:21 - POST_PARAMS:null
+2017-10-23 09:47:21 - POST:149.202.136.54|447960759867|psychics will it be sunny on christmas day?|TMOBILE14UK|1080315056
+2017-10-23 09:47:23 - POST:strBuffer
+2017-10-23 09:47:23 - POST:{"action":"mpush_ir_message","billing":"MT","country":"UK","number":"447960759867","network":"TMOBILE14UK","shortcode":"68899","message":"psychics will it be sunny on christmas day?","request_url":"reply=1&id=1080315056&number=447960759867&network=TMOBILE14UK&message=We+have+received+your+question.+The+charge+to+your+phone+is+%C2%A31.50.+A+Psychic+will+answer+shortly.+More+info%3F+Txt+PSYCHICS+INFO+to+68899.&value=1.5&currency=gbp&cc=psychiccontact&title=&ekey=1a989ce5a9b504b267a810be41c8d114","txtnation_msg_id":"1080315056","random":0}
+2017-10-23 10:13:22 - POST_PARAMS:null
+2017-10-23 10:13:22 - POST:149.202.136.54|447799906908|psychics jayson101 whats the weather like where i am?|VODAFONE14UK|1080321170
+2017-10-23 10:13:24 - POST:strBuffer
+2017-10-23 10:13:24 - POST:{"action":"mpush_ir_message","billing":"MT","country":"UK","number":"447799906908","network":"VODAFONE14UK","shortcode":"68899","message":"psychics jayson101 whats the weather like where i am?","request_url":"reply=1&id=1080321170&number=447799906908&network=VODAFONE14UK&message=We+have+received+your+question.+The+charge+to+your+phone+is+%C2%A31.50.+A+Psychic+will+answer+shortly.+More+info%3F+Txt+PSYCHICS+INFO+to+68899.&value=1.5&currency=gbp&cc=psychiccontact&title=&ekey=1a989ce5a9b504b267a810be41c8d114","txtnation_msg_id":"1080321170","random":0}
+2017-10-23 10:13:40 - POST_PARAMS:null
+2017-10-23 10:13:40 - POST:149.202.136.54|447799906908|psychics 0981 will be sunny on my birthday?|VODAFONE14UK|1080321262
+2017-10-23 10:13:42 - POST:strBuffer
+2017-10-23 10:13:42 - POST:{"action":"mpush_ir_message","billing":"MT","country":"UK","number":"447799906908","network":"VODAFONE14UK","shortcode":"68899","message":"psychics 0981 will be sunny on my birthday?","request_url":"reply=1&id=1080321262&number=447799906908&network=VODAFONE14UK&message=We+have+received+your+question.+The+charge+to+your+phone+is+%C2%A31.50.+A+Psychic+will+answer+shortly.+More+info%3F+Txt+PSYCHICS+INFO+to+68899.&value=1.5&currency=gbp&cc=psychiccontact&title=&ekey=1a989ce5a9b504b267a810be41c8d114","txtnation_msg_id":"1080321262","random":0}
+2017-10-23 10:14:04 - POST_PARAMS:null
+2017-10-23 10:14:04 - POST:149.202.136.54|447799906908|psychics random will i win the lottery?|VODAFONE14UK|1080321353
+2017-10-23 10:14:06 - POST:strBuffer
+2017-10-23 10:14:06 - POST:{"action":"mpush_ir_message","billing":"MT","country":"UK","number":"447799906908","network":"VODAFONE14UK","shortcode":"68899","message":"psychics random will i win the lottery?","request_url":"reply=1&id=1080321353&number=447799906908&network=VODAFONE14UK&message=Purchase 4 Random Reader Replies. 1st Reader reply is free. Next 3 different reader cost \u00a31.50 per message total \u00a34.50. Send PSYCHICS YES to 68899 to agree.&value=1.5&currency=gbp&cc=psychiccontact&title=&ekey=1a989ce5a9b504b267a810be41c8d114","txtnation_msg_id":"1080321353","random":0}
+2017-10-23 10:14:18 - POST_PARAMS:null
+2017-10-23 10:14:18 - POST:149.202.136.54|447799906908|psychics yes|VODAFONE14UK|1080321408
+2017-10-23 10:14:20 - POST:strBuffer
+2017-10-23 10:14:41 - POST_PARAMS:null
+2017-10-23 10:14:41 - POST:149.202.136.54|447799906908|psychics can you read my mind?|VODAFONE14UK|1080321488
+2017-10-23 10:14:43 - POST:strBuffer
+2017-10-23 10:14:43 - POST:{"action":"mpush_ir_message","billing":"MT","country":"UK","number":"447799906908","network":"VODAFONE14UK","shortcode":"68899","message":"psychics can you read my mind?","request_url":"reply=1&id=1080321488&number=447799906908&network=VODAFONE14UK&message=We+have+received+your+question.+The+charge+to+your+phone+is+%C2%A31.50.+A+Psychic+will+answer+shortly.+More+info%3F+Txt+PSYCHICS+INFO+to+68899.&value=1.5&currency=gbp&cc=psychiccontact&title=&ekey=1a989ce5a9b504b267a810be41c8d114","txtnation_msg_id":"1080321488","random":0}

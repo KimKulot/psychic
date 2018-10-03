@@ -1,0 +1,168 @@
+2017-06-15 12:55:32|SEND_MESSAGE|307|34|Test
+2017-06-15 12:55:32|SEND_MESSAGE|{"ref_message_id":"307","sender_id":"34","message":"Test","request_url":"reply=0&number=447808242645&network=INTERNATIONAL&message=Test&value=0&currency=gbp&cc=psychiccontact&title=eric101&ekey=1a989ce5a9b504b267a810be41c8d114"}
+2017-06-15 12:55:32|SEND_MESSAGE|BARRED
+2017-06-15 12:55:32|SEND_MESSAGE|FAILED
+2017-06-15 12:55:32|SEND_MESSAGE|Recipient 447808242645: BARRED
+2017-06-15 12:55:35|SEND_MESSAGE|307|34|Test
+2017-06-15 12:55:35|SEND_MESSAGE|Message is not yet marked as read
+2017-06-15 12:55:39|SEND_MESSAGE|307|34|Test
+2017-06-15 12:55:39|SEND_MESSAGE|Message is not yet marked as read
+2017-06-15 12:55:44|SEND_MESSAGE|305|34|test
+2017-06-15 12:55:50|SEND_MESSAGE|304|34|test
+2017-06-15 12:55:56|SEND_MESSAGE|303|34|test
+2017-06-15 12:56:02|SEND_MESSAGE|302|34|test
+2017-06-15 12:56:02|SEND_MESSAGE|{"ref_message_id":"302","sender_id":"34","message":"test","request_url":"reply=0&number=447966660999&network=INTERNATIONAL&message=test&value=0&currency=gbp&cc=psychiccontact&title=eric101&ekey=1a989ce5a9b504b267a810be41c8d114"}
+2017-06-15 12:56:02|SEND_MESSAGE|SUCCESS
+2017-06-15 12:56:10|SEND_MESSAGE|298|34|test
+2017-06-15 12:56:10|SEND_MESSAGE|{"ref_message_id":"298","sender_id":"34","message":"test","request_url":"reply=0&number=447966660999&network=INTERNATIONAL&message=test&value=0&currency=gbp&cc=psychiccontact&title=eric101&ekey=1a989ce5a9b504b267a810be41c8d114"}
+2017-06-15 12:56:10|SEND_MESSAGE|SUCCESS
+2017-06-15 13:01:20|SEND_MESSAGE|301|34|
+2017-06-15 13:01:20|SEND_MESSAGE|You must include a message to send
+2017-06-15 13:06:03|162.13.59.148|POST_PARAMS|null
+2017-06-15 13:06:03|POST|447923172694|psychics do you sense love aroubd the corner for me|O214UK|1052305491
+2017-06-15 13:06:03|SUCCESS
+2017-06-15 13:06:03|{"action":"mpush_ir_message","billing":"MT","country":"UK","number":"447923172694","network":"O214UK","shortcode":"68899","message":"psychics do you sense love aroubd the corner for me","request_url":"reply=1&id=1052305491&number=447923172694&network=O214UK&message=We+have+successfully+received+your+message.+A+psychic+will+reply+to+in+a+short+while.&value=1.5&currency=gbp&cc=psychiccontact&title=&ekey=1a989ce5a9b504b267a810be41c8d114","txtnation_msg_id":"1052305491"}
+2017-06-15 13:06:42|162.13.59.148|POST_PARAMS|null
+2017-06-15 13:06:42|POST|447923172694|psychics a lady called kirsty keeps entering my mind what are her intentions|O214UK|1052305668
+2017-06-15 13:06:42|SUCCESS
+2017-06-15 13:06:42|{"action":"mpush_ir_message","billing":"MT","country":"UK","number":"447923172694","network":"O214UK","shortcode":"68899","message":"psychics a lady called kirsty keeps entering my mind what are her intentions","request_url":"reply=1&id=1052305668&number=447923172694&network=O214UK&message=We+have+successfully+received+your+message.+A+psychic+will+reply+to+in+a+short+while.&value=1.5&currency=gbp&cc=psychiccontact&title=&ekey=1a989ce5a9b504b267a810be41c8d114","txtnation_msg_id":"1052305668"}
+2017-06-15 13:06:53|SEND_MESSAGE|299|32|I don't rightly know
+
+2017-06-15 13:06:53|SEND_MESSAGE|{"ref_message_id":"299","sender_id":"32","message":"I don't rightly know\n","request_url":"reply=0&number=447966660999&network=INTERNATIONAL&message=I+don%27t+rightly+know%0A&value=0&currency=gbp&cc=psychiccontact&title=jayson101&ekey=1a989ce5a9b504b267a810be41c8d114"}
+2017-06-15 13:06:53|SEND_MESSAGE|SUCCESS
+2017-06-15 13:06:55|SEND_MESSAGE|299|32|I don't rightly know
+
+2017-06-15 13:06:55|SEND_MESSAGE|Message is not yet marked as read
+2017-06-15 13:07:31|162.13.59.148|POST_PARAMS|null
+2017-06-15 13:07:31|POST|447923172694|psychics do you pick anything up around career|O214UK|1052305839
+2017-06-15 13:07:31|SUCCESS
+2017-06-15 13:07:31|{"action":"mpush_ir_message","billing":"MT","country":"UK","number":"447923172694","network":"O214UK","shortcode":"68899","message":"psychics do you pick anything up around career","request_url":"reply=1&id=1052305839&number=447923172694&network=O214UK&message=We+have+successfully+received+your+message.+A+psychic+will+reply+to+in+a+short+while.&value=1.5&currency=gbp&cc=psychiccontact&title=&ekey=1a989ce5a9b504b267a810be41c8d114","txtnation_msg_id":"1052305839"}
+2017-06-15 13:07:51|SEND_MESSAGE|300|32|njBHBshbv
+
+2017-06-15 13:07:51|SEND_MESSAGE|{"ref_message_id":"300","sender_id":"32","message":"njBHBshbv\n","request_url":"reply=0&number=447966660999&network=INTERNATIONAL&message=njBHBshbv%0A&value=0&currency=gbp&cc=psychiccontact&title=jayson101&ekey=1a989ce5a9b504b267a810be41c8d114"}
+2017-06-15 13:07:51|SEND_MESSAGE|SUCCESS
+2017-06-15 13:08:51|SEND_MESSAGE|311|32|sbhhsvh
+
+
+2017-06-15 13:08:51|SEND_MESSAGE|{"ref_message_id":"311","sender_id":"32","message":"sbhhsvh\n\n","request_url":"reply=0&number=447923172694&network=INTERNATIONAL&message=sbhhsvh%0A%0A&value=0&currency=gbp&cc=psychiccontact&title=jayson101&ekey=1a989ce5a9b504b267a810be41c8d114"}
+2017-06-15 13:08:51|SEND_MESSAGE|SUCCESS
+2017-06-15 13:09:16|162.13.59.148|POST_PARAMS|null
+2017-06-15 13:09:16|POST|447923172694|psychics wgfchfbn|O214UK|1052306231
+2017-06-15 13:09:16|SUCCESS
+2017-06-15 13:09:16|{"action":"mpush_ir_message","billing":"MT","country":"UK","number":"447923172694","network":"O214UK","shortcode":"68899","message":"psychics wgfchfbn","request_url":"reply=1&id=1052306231&number=447923172694&network=O214UK&message=We+have+successfully+received+your+message.+A+psychic+will+reply+to+in+a+short+while.&value=1.5&currency=gbp&cc=psychiccontact&title=&ekey=1a989ce5a9b504b267a810be41c8d114","txtnation_msg_id":"1052306231"}
+2017-06-15 13:09:24|162.13.59.148|POST_PARAMS|null
+2017-06-15 13:09:24|POST|447923172694|psychics fhchnghvn|O214UK|1052306255
+2017-06-15 13:09:24|SUCCESS
+2017-06-15 13:09:24|{"action":"mpush_ir_message","billing":"MT","country":"UK","number":"447923172694","network":"O214UK","shortcode":"68899","message":"psychics fhchnghvn","request_url":"reply=1&id=1052306255&number=447923172694&network=O214UK&message=We+have+successfully+received+your+message.+A+psychic+will+reply+to+in+a+short+while.&value=1.5&currency=gbp&cc=psychiccontact&title=&ekey=1a989ce5a9b504b267a810be41c8d114","txtnation_msg_id":"1052306255"}
+2017-06-15 13:09:30|SEND_MESSAGE|312|32|not right now
+no
+
+2017-06-15 13:09:32|162.13.59.148|POST_PARAMS|null
+2017-06-15 13:09:32|POST|447923172694|psychics gfxnhfgmv|O214UK|1052306287
+2017-06-15 13:09:30|SEND_MESSAGE|{"ref_message_id":"312","sender_id":"32","message":"not right now\nno\n","request_url":"reply=0&number=447923172694&network=INTERNATIONAL&message=not+right+now%0Ano%0A&value=0&currency=gbp&cc=psychiccontact&title=jayson101&ekey=1a989ce5a9b504b267a810be41c8d114"}
+2017-06-15 13:09:30|SEND_MESSAGE|SUCCESS
+2017-06-15 13:09:32|SUCCESS
+2017-06-15 13:09:32|{"action":"mpush_ir_message","billing":"MT","country":"UK","number":"447923172694","network":"O214UK","shortcode":"68899","message":"psychics gfxnhfgmv","request_url":"reply=1&id=1052306287&number=447923172694&network=O214UK&message=We+have+successfully+received+your+message.+A+psychic+will+reply+to+in+a+short+while.&value=1.5&currency=gbp&cc=psychiccontact&title=&ekey=1a989ce5a9b504b267a810be41c8d114","txtnation_msg_id":"1052306287"}
+2017-06-15 13:09:46|162.13.59.148|POST_PARAMS|null
+2017-06-15 13:09:46|POST|447923172694|psychics ghgjgbjku|O214UK|1052306339
+2017-06-15 13:09:46|SUCCESS
+2017-06-15 13:09:46|{"action":"mpush_ir_message","billing":"MT","country":"UK","number":"447923172694","network":"O214UK","shortcode":"68899","message":"psychics ghgjgbjku","request_url":"reply=1&id=1052306339&number=447923172694&network=O214UK&message=We+have+successfully+received+your+message.+A+psychic+will+reply+to+in+a+short+while.&value=1.5&currency=gbp&cc=psychiccontact&title=&ekey=1a989ce5a9b504b267a810be41c8d114","txtnation_msg_id":"1052306339"}
+2017-06-15 13:10:07|162.13.59.148|POST_PARAMS|null
+2017-06-15 13:10:07|POST|447923172694|psychics hhfhjjvvb|O214UK|1052306422
+2017-06-15 13:10:10|162.13.59.148|POST_PARAMS|null
+2017-06-15 13:10:10|POST|447923172694|psychics hhsbjlynnc|O214UK|1052306434
+2017-06-15 13:10:07|SUCCESS
+2017-06-15 13:10:07|{"action":"mpush_ir_message","billing":"MT","country":"UK","number":"447923172694","network":"O214UK","shortcode":"68899","message":"psychics hhfhjjvvb","request_url":"reply=1&id=1052306422&number=447923172694&network=O214UK&message=We+have+successfully+received+your+message.+A+psychic+will+reply+to+in+a+short+while.&value=1.5&currency=gbp&cc=psychiccontact&title=&ekey=1a989ce5a9b504b267a810be41c8d114","txtnation_msg_id":"1052306422"}
+2017-06-15 13:10:10|SUCCESS
+2017-06-15 13:10:10|{"action":"mpush_ir_message","billing":"MT","country":"UK","number":"447923172694","network":"O214UK","shortcode":"68899","message":"psychics hhsbjlynnc","request_url":"reply=1&id=1052306434&number=447923172694&network=O214UK&message=We+have+successfully+received+your+message.+A+psychic+will+reply+to+in+a+short+while.&value=1.5&currency=gbp&cc=psychiccontact&title=&ekey=1a989ce5a9b504b267a810be41c8d114","txtnation_msg_id":"1052306434"}
+2017-06-15 13:12:57|SEND_MESSAGE|313|32|sgsaaygvs
+2017-06-15 13:12:57|SEND_MESSAGE|{"ref_message_id":"313","sender_id":"32","message":"sgsaaygvs","request_url":"reply=0&number=447923172694&network=INTERNATIONAL&message=sgsaaygvs&value=0&currency=gbp&cc=psychiccontact&title=jayson101&ekey=1a989ce5a9b504b267a810be41c8d114"}
+2017-06-15 13:12:57|SEND_MESSAGE|SUCCESS
+2017-06-15 13:13:02|162.13.59.148|POST_PARAMS|null
+2017-06-15 13:13:02|POST|447923172694|psychics hhvjvbnk|O214UK|1052307175
+2017-06-15 13:13:02|SUCCESS
+2017-06-15 13:13:02|{"action":"mpush_ir_message","billing":"MT","country":"UK","number":"447923172694","network":"O214UK","shortcode":"68899","message":"psychics hhvjvbnk","request_url":"reply=1&id=1052307175&number=447923172694&network=O214UK&message=We+have+successfully+received+your+message.+A+psychic+will+reply+to+in+a+short+while.&value=1.5&currency=gbp&cc=psychiccontact&title=&ekey=1a989ce5a9b504b267a810be41c8d114","txtnation_msg_id":"1052307175"}
+2017-06-15 13:13:42|SEND_MESSAGE|314|34|Hi This is a sample reply ... Thanks
+2017-06-15 13:13:42|SEND_MESSAGE|{"ref_message_id":"314","sender_id":"34","message":"Hi This is a sample reply ... Thanks","request_url":"reply=0&number=447923172694&network=INTERNATIONAL&message=Hi+This+is+a+sample+reply+...+Thanks&value=0&currency=gbp&cc=psychiccontact&title=eric101&ekey=1a989ce5a9b504b267a810be41c8d114"}
+2017-06-15 13:13:42|SEND_MESSAGE|SUCCESS
+2017-06-15 13:13:57|SEND_MESSAGE|310|32|7777777
+2017-06-15 13:13:57|SEND_MESSAGE|{"ref_message_id":"310","sender_id":"32","message":"7777777","request_url":"reply=0&number=447923172694&network=INTERNATIONAL&message=7777777&value=0&currency=gbp&cc=psychiccontact&title=jayson101&ekey=1a989ce5a9b504b267a810be41c8d114"}
+2017-06-15 13:13:57|SEND_MESSAGE|SUCCESS
+2017-06-15 13:14:03|162.13.59.148|POST_PARAMS|null
+2017-06-15 13:14:03|POST|447923172694|psychics hgvjjbn|O214UK|1052307400
+2017-06-15 13:14:03|SUCCESS
+2017-06-15 13:14:03|{"action":"mpush_ir_message","billing":"MT","country":"UK","number":"447923172694","network":"O214UK","shortcode":"68899","message":"psychics hgvjjbn","request_url":"reply=1&id=1052307400&number=447923172694&network=O214UK&message=We+have+successfully+received+your+message.+A+psychic+will+reply+to+in+a+short+while.&value=1.5&currency=gbp&cc=psychiccontact&title=&ekey=1a989ce5a9b504b267a810be41c8d114","txtnation_msg_id":"1052307400"}
+2017-06-15 13:14:07|SEND_MESSAGE|316|34| Hi This is a sample reply (2)... Thanks
+2017-06-15 13:14:07|SEND_MESSAGE|{"ref_message_id":"316","sender_id":"34","message":" Hi This is a sample reply (2)... Thanks","request_url":"reply=0&number=447923172694&network=INTERNATIONAL&message=+Hi+This+is+a+sample+reply+%282%29...+Thanks&value=0&currency=gbp&cc=psychiccontact&title=eric101&ekey=1a989ce5a9b504b267a810be41c8d114"}
+2017-06-15 13:14:07|SEND_MESSAGE|SUCCESS
+2017-06-15 13:14:25|SEND_MESSAGE|315|32|abhjdshvsgsv
+2017-06-15 13:14:27|SEND_MESSAGE|318|33|gtugiuh
+2017-06-15 13:14:25|SEND_MESSAGE|{"ref_message_id":"315","sender_id":"32","message":"abhjdshvsgsv","request_url":"reply=0&number=447923172694&network=INTERNATIONAL&message=abhjdshvsgsv&value=0&currency=gbp&cc=psychiccontact&title=jayson101&ekey=1a989ce5a9b504b267a810be41c8d114"}
+2017-06-15 13:14:25|SEND_MESSAGE|SUCCESS
+2017-06-15 13:14:27|SEND_MESSAGE|{"ref_message_id":"318","sender_id":"33","message":"gtugiuh","request_url":"reply=0&number=447923172694&network=INTERNATIONAL&message=gtugiuh&value=0&currency=gbp&cc=psychiccontact&title=rose101&ekey=1a989ce5a9b504b267a810be41c8d114"}
+2017-06-15 13:14:27|SEND_MESSAGE|SUCCESS
+2017-06-15 13:14:45|SEND_MESSAGE|320|33|kijjik
+2017-06-15 13:14:45|SEND_MESSAGE|{"ref_message_id":"320","sender_id":"33","message":"kijjik","request_url":"reply=0&number=447923172694&network=INTERNATIONAL&message=kijjik&value=0&currency=gbp&cc=psychiccontact&title=rose101&ekey=1a989ce5a9b504b267a810be41c8d114"}
+2017-06-15 13:14:45|SEND_MESSAGE|SUCCESS
+2017-06-15 13:16:01|SEND_MESSAGE|319|33|jkmji
+2017-06-15 13:16:01|SEND_MESSAGE|{"ref_message_id":"319","sender_id":"33","message":"jkmji","request_url":"reply=0&number=447923172694&network=INTERNATIONAL&message=jkmji&value=0&currency=gbp&cc=psychiccontact&title=rose101&ekey=1a989ce5a9b504b267a810be41c8d114"}
+2017-06-15 13:16:01|SEND_MESSAGE|SUCCESS
+2017-06-15 13:16:14|SEND_MESSAGE|317|33|hjuijjik
+2017-06-15 13:16:14|SEND_MESSAGE|{"ref_message_id":"317","sender_id":"33","message":"hjuijjik","request_url":"reply=0&number=447923172694&network=INTERNATIONAL&message=hjuijjik&value=0&currency=gbp&cc=psychiccontact&title=rose101&ekey=1a989ce5a9b504b267a810be41c8d114"}
+2017-06-15 13:16:14|SEND_MESSAGE|SUCCESS
+2017-06-15 13:16:29|SEND_MESSAGE|309|33|njknk
+2017-06-15 13:16:33|SEND_MESSAGE|309|33|njknk
+2017-06-15 13:16:38|SEND_MESSAGE|309|33|njknk
+2017-06-15 13:16:44|SEND_MESSAGE|309|33|njknk
+2017-06-15 13:16:46|SEND_MESSAGE|309|33|njknk
+2017-06-15 13:16:48|SEND_MESSAGE|309|33|njknk
+2017-06-15 13:16:51|SEND_MESSAGE|309|33|njknk
+2017-06-15 13:22:41|SEND_MESSAGE|306|34|
+2017-06-15 13:22:41|SEND_MESSAGE|You must include a message to send
+2017-06-15 13:30:27|162.13.59.148|POST_PARAMS|null
+2017-06-15 13:30:27|POST|447923172694|ask psychiccontact stop|WORLDSTOP|1052311458
+2017-06-15 13:30:27|BARRED
+2017-06-15 13:30:27|BARRED|FAILED curl
+2017-06-15 13:30:27|BARRED|OLD Subs
+2017-06-15 13:35:33|SEND_MESSAGE|309|34|asdfadfadsf
+2017-06-15 13:41:28|SEND_MESSAGE|309|34|assfasdf
+2017-06-15 13:41:34|SEND_MESSAGE|308|34|adfadf
+2017-06-15 13:41:34|SEND_MESSAGE|{"ref_message_id":"308","sender_id":"34","message":"adfadf","request_url":"reply=0&number=447808242645&network=INTERNATIONAL&message=adfadf&value=0&currency=gbp&cc=psychiccontact&title=eric101&ekey=1a989ce5a9b504b267a810be41c8d114"}
+2017-06-15 13:41:34|SEND_MESSAGE|BARRED
+2017-06-15 13:41:34|SEND_MESSAGE|FAILED
+2017-06-15 13:41:34|SEND_MESSAGE|Recipient 447808242645: BARRED
+2017-06-15 13:42:19|162.13.59.148|POST_PARAMS|null
+2017-06-15 13:42:19|POST|447960759867|ask psychiccontact stop|TMOBILE20UK|1052314431
+2017-06-15 13:42:19|BARRED
+2017-06-15 13:42:19|BARRED|FAILED curl
+2017-06-15 13:42:19|BARRED|NEW Subs
+2017-06-15 13:43:55|162.13.59.148|POST_PARAMS|null
+2017-06-15 13:43:55|POST|447960759867|ask psychiccontact stop|TMOBILE20UK|1052314431
+2017-06-15 13:43:55|BARRED
+2017-06-15 13:43:55|BARRED|FAILED curl
+2017-06-15 13:43:55|BARRED|OLD Subs
+2017-06-15 13:44:16|162.13.59.148|POST_PARAMS|null
+2017-06-15 13:44:16|POST|447960759867|ask psychiccontact stop|TMOBILE20UK|1052314431
+2017-06-15 13:44:16|BARRED
+2017-06-15 13:44:16|BARRED|FAILED curl
+2017-06-15 13:44:16|BARRED|OLD Subs
+2017-06-15 13:58:15|SEND_MESSAGE|309|15|this is a test
+2017-06-15 13:59:12|SEND_MESSAGE|308|34|dsfasdfadsf
+asdfadsfsadf
+2017-06-15 13:59:12|SEND_MESSAGE|{"ref_message_id":"308","sender_id":"34","message":"dsfasdfadsf\nasdfadsfsadf","request_url":"reply=0&number=447808242645&network=INTERNATIONAL&message=dsfasdfadsf%0Aasdfadsfsadf&value=0&currency=gbp&cc=psychiccontact&title=eric101&ekey=1a989ce5a9b504b267a810be41c8d114"}
+2017-06-15 13:59:12|SEND_MESSAGE|SUCCESS
+2017-06-15 13:59:14|SEND_MESSAGE|308|34|dsfasdfadsf
+asdfadsfsadf
+2017-06-15 13:59:14|SEND_MESSAGE|Message is not yet marked as read
+2017-06-15 13:59:20|SEND_MESSAGE|307|34|asdfadsfdasf
+2017-06-15 13:59:20|SEND_MESSAGE|{"ref_message_id":"307","sender_id":"34","message":"asdfadsfdasf","request_url":"reply=0&number=447808242645&network=INTERNATIONAL&message=asdfadsfdasf&value=0&currency=gbp&cc=psychiccontact&title=eric101&ekey=1a989ce5a9b504b267a810be41c8d114"}
+2017-06-15 13:59:20|SEND_MESSAGE|SUCCESS
+2017-06-15 15:39:46|SEND_MESSAGE|309|15|this is a test
+2017-06-15 15:40:05|SEND_MESSAGE|306|15|this is a test
+2017-06-15 15:40:05|SEND_MESSAGE|{"ref_message_id":"306","sender_id":"15","message":"this is a test","request_url":"reply=0&number=447808242645&network=INTERNATIONAL&message=this+is+a+test&value=0&currency=gbp&cc=psychiccontact&title=test101&ekey=1a989ce5a9b504b267a810be41c8d114"}
+2017-06-15 15:40:05|SEND_MESSAGE|SUCCESS
+2017-06-15 16:18:25|162.13.59.148|POST_PARAMS|null
+2017-06-15 16:18:25|POST|447808242645|ask psychiccontact stop|O220UK|1052352484
+2017-06-15 16:18:25|BARRED
+2017-06-15 16:18:25|BARRED|FAILED curl
+2017-06-15 16:18:25|BARRED|NEW Subs

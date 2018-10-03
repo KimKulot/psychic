@@ -1,0 +1,8 @@
+2018-06-01 21:50:00 - 72|6|test
+2018-06-01 21:50:00 - Random Message
+2018-06-01 21:50:04 - {"ref_message_id":"72","sender_id":"6","message":"test","request_url":"reply=0&value=1.5&mobile_number=639098406622&message=Aleon%3A+test&currency=gbp&cc=psychiccontact&title=68899&ekey=1a989ce5a9b504b267a810be41c8d114&type=reader"}
+2018-06-01 21:50:04 - {"data":{"message":{"status":202,"response":{"api_id":"afa33698-65a2-11e8-bbfd-02af11be3b72","message":"message(s) queued","message_uuid":["afa3a092-65a2-11e8-bbfd-02af11be3b72"]}}},"success":true,"errors":[]}
+2018-06-01 22:11:53 - 70|6|test
+2018-06-01 22:11:53 - Random Message
+2018-06-01 22:11:55 - {"ref_message_id":"70","sender_id":"6","message":"test","request_url":"reply=0&value=1.5&mobile_number=639098406622&message=Aleon%3A+test&currency=gbp&cc=psychiccontact&title=68899&ekey=1a989ce5a9b504b267a810be41c8d114&type=reader"}
+2018-06-01 22:11:55 - {"data":{"message":{"status":202,"response":{"api_id":"bd2d7c3a-65a5-11e8-9516-0265ce0ed80a","message":"message(s) queued","message_uuid":["bd2dd84c-65a5-11e8-9516-0265ce0ed80a"]}}},"success":true,"errors":[]}

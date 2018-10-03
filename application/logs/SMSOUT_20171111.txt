@@ -1,0 +1,6 @@
+2017-11-11 17:38:11 - 112|22|Today its very cold in Canada we had a big Snowstorm and now we have too much snow! Winter is here folks !
+2017-11-11 17:38:13 - 112|22|LadyStar: Today its very cold in Canada we had a big Snowstorm and now we have too much snow! Winter is here folks !|0|SUCCESS
+2017-11-11 18:03:12 - 82|1|jsdhbshdsadv
+2017-11-11 18:03:13 - 82|1|jayson101: jsdhbshdsadv|1.5|SUCCESS
+2017-11-11 18:05:03 - 82|22|SMS is Fun! Training is great! 
+2017-11-11 18:05:05 - 82|22|LadyStar: SMS is Fun! Training is great! |1.5|SUCCESS

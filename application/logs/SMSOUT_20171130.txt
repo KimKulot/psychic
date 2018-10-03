@@ -1,0 +1,2 @@
+2017-11-30 02:26:39 - 85|8|hello, this is Camaryn. test chat
+2017-11-30 02:26:40 - 85|8|Camaryn: hello, this is Camaryn. test chat|1.5|SUCCESS

@@ -1,0 +1,18 @@
+2017-12-06 02:27:54 - 109|1|jadhadvhadvd
+2017-12-06 02:27:56 - {"ref_message_id":"109","sender_id":"1","message":"jadhadvhadvd","request_url":"reply=0&value=0&number=447808242645&network=INTERNATIONAL&message=jayson101%3A+jadhadvhadvd&currency=gbp&cc=psychiccontact&title=68899&ekey=1a989ce5a9b504b267a810be41c8d114"}
+2017-12-06 02:27:56 - SUCCESS
+2017-12-06 03:01:29 - 105|25|I love you Jayson. You are the best boss I ever met and very good teacher. I easily understand all. thank you so much. 
+2017-12-06 03:01:31 - {"ref_message_id":"105","sender_id":"25","message":"I love you Jayson. You are the best boss I ever met and very good teacher. I easily understand all. thank you so much. ","request_url":"reply=0&value=0&number=447808242645&network=INTERNATIONAL&message=Miracle%3A+I+love+you+Jayson.+You+are+the+best+boss+I+ever+met+and+very+good+teacher.+I+easily+understand+all.+thank+you+so+much.+&currency=gbp&cc=psychiccontact&title=68899&ekey=1a989ce5a9b504b267a810be41c8d114"}
+2017-12-06 03:01:31 - SUCCESS
+2017-12-06 03:16:47 - 118|1|jdhsbdsvdgvsw
+2017-12-06 03:16:47 - Random Message
+2017-12-06 03:16:48 - {"ref_message_id":"118","sender_id":"1","message":"jdhsbdsvdgvsw","request_url":"reply=0&value=0&number=447799906908&network=INTERNATIONAL&message=jayson101%3A+jdhsbdsvdgvsw&currency=gbp&cc=psychiccontact&title=68899&ekey=1a989ce5a9b504b267a810be41c8d114"}
+2017-12-06 03:16:48 - SUCCESS
+2017-12-06 03:16:48 - 118|1|jdhsbdsvdgvsw
+2017-12-06 03:16:48 - Random Message
+2017-12-06 03:16:50 - {"ref_message_id":"118","sender_id":"1","message":"jdhsbdsvdgvsw","request_url":"reply=0&value=1.5&number=447799906908&network=INTERNATIONAL&message=jayson101%3A+jdhsbdsvdgvsw&currency=gbp&cc=psychiccontact&title=68899&ekey=1a989ce5a9b504b267a810be41c8d114"}
+2017-12-06 03:16:50 - SUCCESS
+2017-12-06 03:16:59 - 118|1|sdsdgsgdsdf
+2017-12-06 03:16:59 - Random Message
+2017-12-06 03:17:00 - {"ref_message_id":"118","sender_id":"1","message":"sdsdgsgdsdf","request_url":"reply=0&value=1.5&number=447799906908&network=INTERNATIONAL&message=jayson101%3A+sdsdgsgdsdf&currency=gbp&cc=psychiccontact&title=68899&ekey=1a989ce5a9b504b267a810be41c8d114"}
+2017-12-06 03:17:00 - SUCCESS

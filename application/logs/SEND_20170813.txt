@@ -1,0 +1,12 @@
+2017-08-13 16:45:06 - 49|32|this is a random answer to Sophie from Jayson
+2017-08-13 16:45:06 - Random Message
+2017-08-13 16:45:08 - {"ref_message_id":"49","sender_id":"32","message":"this is a random answer to Sophie from Jayson","request_url":"reply=0&value=1.5&number=447799906908&network=INTERNATIONAL&message=jayson101%3A+this+is+a+random+answer+to+Sophie+from+Jayson&currency=gbp&cc=psychiccontact&title=68899&ekey=1a989ce5a9b504b267a810be41c8d114"}
+2017-08-13 16:45:08 - SUCCESS
+2017-08-13 16:45:08 - 49|32|this is a random answer to Sophie from Jayson
+2017-08-13 16:45:08 - Random Message
+2017-08-13 16:45:09 - {"ref_message_id":"49","sender_id":"32","message":"this is a random answer to Sophie from Jayson","request_url":"reply=0&value=1.5&number=447799906908&network=INTERNATIONAL&message=jayson101%3A+this+is+a+random+answer+to+Sophie+from+Jayson&currency=gbp&cc=psychiccontact&title=68899&ekey=1a989ce5a9b504b267a810be41c8d114"}
+2017-08-13 16:45:09 - SUCCESS
+2017-08-13 16:45:09 - 49|32|this is a random answer to Sophie from Jayson
+2017-08-13 16:45:09 - Random Message
+2017-08-13 16:45:10 - {"ref_message_id":"49","sender_id":"32","message":"this is a random answer to Sophie from Jayson","request_url":"reply=0&value=1.5&number=447799906908&network=INTERNATIONAL&message=jayson101%3A+this+is+a+random+answer+to+Sophie+from+Jayson&currency=gbp&cc=psychiccontact&title=68899&ekey=1a989ce5a9b504b267a810be41c8d114"}
+2017-08-13 16:45:10 - SUCCESS

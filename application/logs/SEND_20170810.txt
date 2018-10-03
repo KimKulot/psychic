@@ -1,0 +1,10 @@
+2017-08-10 10:57:55 - 49|9|testing random replies - test2
+2017-08-10 10:57:55 - Random Message
+2017-08-10 10:57:56 - {"ref_message_id":"49","sender_id":"9","message":"testing random replies - test2","request_url":"reply=0&value=0&number=447799906908&network=INTERNATIONAL&message=test2%3A+testing+random+replies+-+test2&currency=gbp&cc=psychiccontact&title=68899&ekey=1a989ce5a9b504b267a810be41c8d114"}
+2017-08-10 10:57:56 - SUCCESS
+2017-08-10 10:59:04 - 49|15|testing random replies - test101
+2017-08-10 10:59:04 - Random Message
+2017-08-10 10:59:05 - {"ref_message_id":"49","sender_id":"15","message":"testing random replies - test101","request_url":"reply=0&value=1.5&number=447799906908&network=INTERNATIONAL&message=test101%3A+testing+random+replies+-+test101&currency=gbp&cc=psychiccontact&title=68899&ekey=1a989ce5a9b504b267a810be41c8d114"}
+2017-08-10 10:59:05 - SUCCESS
+2017-08-10 11:07:14 - 49|37|testing random max replies
+2017-08-10 11:07:14 - Random Message

@@ -1,0 +1,60 @@
+2017-10-18 11:49:41 - POST_PARAMS:null
+2017-10-18 11:49:41 - POST:149.202.136.54|447960759867|psychics random is it raining where i am?|TMOBILE14UK|1079251268
+2017-10-18 11:49:44 - POST:strBuffer
+2017-10-18 11:49:44 - POST:{"action":"mpush_ir_message","billing":"MT","country":"UK","number":"447960759867","network":"TMOBILE14UK","shortcode":"68899","message":"psychics random is it raining where i am?","request_url":"reply=1&id=1079251268&number=447960759867&network=TMOBILE14UK&message=Purchase 4 Random Reader Replies. 1st Reader reply is free. Next 3 different reader cost \u00a31.50 per message total \u00a34.50. Send PSYCHICS YES to 68899 to agree.&value=1.5&currency=gbp&cc=psychiccontact&title=&ekey=1a989ce5a9b504b267a810be41c8d114","txtnation_msg_id":"1079251268","random":0}
+2017-10-18 11:52:15 - POST_PARAMS:null
+2017-10-18 11:52:15 - POST:149.202.136.54|447960759867|psychics 4356|TMOBILE14UK|1079251621
+2017-10-18 11:52:17 - POST:strBuffer
+2017-10-18 11:53:02 - POST_PARAMS:null
+2017-10-18 11:53:02 - POST:149.202.136.54|447960759867|psychics 4356 what colour is my hair?|TMOBILE14UK|1079251724
+2017-10-18 11:53:04 - POST:strBuffer
+2017-10-18 11:54:08 - POST_PARAMS:null
+2017-10-18 11:54:08 - POST:149.202.136.54|447960759867|psychics 4357 is it sunny where i am?|TMOBILE14UK|1079251884
+2017-10-18 11:54:10 - POST:strBuffer
+2017-10-18 11:55:28 - POST_PARAMS:null
+2017-10-18 11:55:28 - POST:149.202.136.54|447960759867|psychics 4356|TMOBILE14UK|1079252079
+2017-10-18 11:55:30 - POST:strBuffer
+2017-10-18 11:56:44 - POST_PARAMS:null
+2017-10-18 11:56:44 - POST:149.202.136.54|447960759867|psychics 4356|TMOBILE14UK|1079252262
+2017-10-18 11:56:46 - POST:strBuffer
+2017-10-18 13:07:04 - POST_PARAMS:null
+2017-10-18 13:07:04 - POST:149.202.136.54|447808242645|psychics what colour t shirt am i wearing?|O214UK|1079263358
+2017-10-18 13:07:06 - POST:strBuffer
+2017-10-18 13:07:06 - POST:{"action":"mpush_ir_message","billing":"MT","country":"UK","number":"447808242645","network":"O214UK","shortcode":"68899","message":"psychics what colour t shirt am i wearing?","request_url":"reply=1&id=1079263358&number=447808242645&network=O214UK&message=We+have+received+your+question.+The+charge+to+your+phone+is+%C2%A31.50.+A+Psychic+will+answer+shortly.+More+info%3F+Txt+PSYCHICS+INFO+to+68899.&value=1.5&currency=gbp&cc=psychiccontact&title=&ekey=1a989ce5a9b504b267a810be41c8d114","txtnation_msg_id":"1079263358","random":0}
+2017-10-18 13:07:42 - POST_PARAMS:null
+2017-10-18 13:07:42 - POST:149.202.136.54|447808242645|psychics is it sunny here?|O214UK|1079263459
+2017-10-18 13:07:44 - POST:strBuffer
+2017-10-18 13:07:44 - POST:{"action":"mpush_ir_message","billing":"MT","country":"UK","number":"447808242645","network":"O214UK","shortcode":"68899","message":"psychics is it sunny here?","request_url":"reply=1&id=1079263459&number=447808242645&network=O214UK&message=We+have+received+your+question.+The+charge+to+your+phone+is+%C2%A31.50.+A+Psychic+will+answer+shortly.+More+info%3F+Txt+PSYCHICS+INFO+to+68899.&value=1.5&currency=gbp&cc=psychiccontact&title=&ekey=1a989ce5a9b504b267a810be41c8d114","txtnation_msg_id":"1079263459","random":0}
+2017-10-18 13:07:58 - POST_PARAMS:null
+2017-10-18 13:07:58 - POST:149.202.136.54|447808242645|psychics will i win the lottery?|O214UK|1079263502
+2017-10-18 13:08:00 - POST:strBuffer
+2017-10-18 13:08:00 - POST:{"action":"mpush_ir_message","billing":"MT","country":"UK","number":"447808242645","network":"O214UK","shortcode":"68899","message":"psychics will i win the lottery?","request_url":"reply=1&id=1079263502&number=447808242645&network=O214UK&message=We+have+received+your+question.+The+charge+to+your+phone+is+%C2%A31.50.+A+Psychic+will+answer+shortly.+More+info%3F+Txt+PSYCHICS+INFO+to+68899.&value=1.5&currency=gbp&cc=psychiccontact&title=&ekey=1a989ce5a9b504b267a810be41c8d114","txtnation_msg_id":"1079263502","random":0}
+2017-10-18 13:08:13 - POST_PARAMS:null
+2017-10-18 13:08:13 - POST:149.202.136.54|447808242645|psychics what colour are my shoes?|O214UK|1079263538
+2017-10-18 13:08:15 - POST:strBuffer
+2017-10-18 13:08:15 - POST:{"action":"mpush_ir_message","billing":"MT","country":"UK","number":"447808242645","network":"O214UK","shortcode":"68899","message":"psychics what colour are my shoes?","request_url":"reply=1&id=1079263538&number=447808242645&network=O214UK&message=We+have+received+your+question.+The+charge+to+your+phone+is+%C2%A31.50.+A+Psychic+will+answer+shortly.+More+info%3F+Txt+PSYCHICS+INFO+to+68899.&value=1.5&currency=gbp&cc=psychiccontact&title=&ekey=1a989ce5a9b504b267a810be41c8d114","txtnation_msg_id":"1079263538","random":0}
+2017-10-18 13:08:28 - POST_PARAMS:null
+2017-10-18 13:08:28 - POST:149.202.136.54|447808242645|psychics what am i thinking?|O214UK|1079263576
+2017-10-18 13:08:31 - POST:strBuffer
+2017-10-18 13:08:31 - POST:{"action":"mpush_ir_message","billing":"MT","country":"UK","number":"447808242645","network":"O214UK","shortcode":"68899","message":"psychics what am i thinking?","request_url":"reply=1&id=1079263576&number=447808242645&network=O214UK&message=We+have+received+your+question.+The+charge+to+your+phone+is+%C2%A31.50.+A+Psychic+will+answer+shortly.+More+info%3F+Txt+PSYCHICS+INFO+to+68899.&value=1.5&currency=gbp&cc=psychiccontact&title=&ekey=1a989ce5a9b504b267a810be41c8d114","txtnation_msg_id":"1079263576","random":0}
+2017-10-18 13:10:02 - POST_PARAMS:null
+2017-10-18 13:10:02 - POST:149.202.136.54|447808242645|psychics random will i find love this year?|O214UK|1079263821
+2017-10-18 13:10:04 - POST:strBuffer
+2017-10-18 13:10:04 - POST:{"action":"mpush_ir_message","billing":"MT","country":"UK","number":"447808242645","network":"O214UK","shortcode":"68899","message":"psychics random will i find love this year?","request_url":"reply=1&id=1079263821&number=447808242645&network=O214UK&message=Purchase 4 Random Reader Replies. 1st Reader reply is free. Next 3 different reader cost \u00a31.50 per message total \u00a34.50. Send PSYCHICS YES to 68899 to agree.&value=1.5&currency=gbp&cc=psychiccontact&title=&ekey=1a989ce5a9b504b267a810be41c8d114","txtnation_msg_id":"1079263821","random":0}
+2017-10-18 13:10:29 - POST_PARAMS:null
+2017-10-18 13:10:29 - POST:149.202.136.54|447808242645|psychics yes|O214UK|1079263907
+2017-10-18 13:10:32 - POST:strBuffer
+2017-10-18 13:12:14 - POST_PARAMS:null
+2017-10-18 13:12:14 - POST:149.202.136.54|447808242645|psychics random what shoes am i wearing?|O214UK|1079264196
+2017-10-18 13:12:16 - POST:strBuffer
+2017-10-18 13:12:16 - POST:{"action":"mpush_ir_message","billing":"MT","country":"UK","number":"447808242645","network":"O214UK","shortcode":"68899","message":"psychics random what shoes am i wearing?","request_url":"reply=1&id=1079264196&number=447808242645&network=O214UK&message=Purchase 4 Random Reader Replies. 1st Reader reply is free. Next 3 different reader cost \u00a31.50 per message total \u00a34.50. Send PSYCHICS YES to 68899 to agree.&value=1.5&currency=gbp&cc=psychiccontact&title=&ekey=1a989ce5a9b504b267a810be41c8d114","txtnation_msg_id":"1079264196","random":0}
+2017-10-18 13:12:33 - POST_PARAMS:null
+2017-10-18 13:12:33 - POST:149.202.136.54|447808242645|psychics yes|O214UK|1079264239
+2017-10-18 13:12:35 - POST:strBuffer
+2017-10-18 13:13:52 - POST_PARAMS:null
+2017-10-18 13:13:52 - POST:149.202.136.54|447808242645|psychics random what's the weather like in spain?|O214UK|1079264457
+2017-10-18 13:13:54 - POST:strBuffer
+2017-10-18 13:13:54 - POST:{"action":"mpush_ir_message","billing":"MT","country":"UK","number":"447808242645","network":"O214UK","shortcode":"68899","message":"psychics random what's the weather like in spain?","request_url":"reply=1&id=1079264457&number=447808242645&network=O214UK&message=Purchase 4 Random Reader Replies. 1st Reader reply is free. Next 3 different reader cost \u00a31.50 per message total \u00a34.50. Send PSYCHICS YES to 68899 to agree.&value=1.5&currency=gbp&cc=psychiccontact&title=&ekey=1a989ce5a9b504b267a810be41c8d114","txtnation_msg_id":"1079264457","random":0}
+2017-10-18 13:14:22 - POST_PARAMS:null
+2017-10-18 13:14:22 - POST:149.202.136.54|447808242645|psychics yes|O214UK|1079264538
+2017-10-18 13:14:24 - POST:strBuffer

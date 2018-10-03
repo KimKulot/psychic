@@ -1,0 +1,6 @@
+2017-12-03 18:41:01 - 108|15|Everything will go well, wait on answers, they will come. YOu will be alright.
+2017-12-03 18:41:03 - 108|15|Indigo: Everything will go well, wait on answers, they will come. YOu will be alright.|0|SUCCESS
+2017-12-03 18:53:31 - 83|15|hi, I think you should buy the stock because it is yours, and you need the credibility.
+2017-12-03 18:53:32 - 83|15|Indigo: hi, I think you should buy the stock because it is yours, and you need the credibility.|1.5|SUCCESS
+2017-12-03 18:55:07 - 70|15|WEather is dry, no precipitation, but a lot of wind which is causing problems.
+2017-12-03 18:55:09 - 70|15|Indigo: WEather is dry, no precipitation, but a lot of wind which is causing problems.|1.5|SUCCESS

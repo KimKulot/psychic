@@ -1,0 +1,18 @@
+2017-06-05 13:57:33|SEND_MESSAGE|295|32|reply psychis adam 3
+2017-06-05 13:57:33|SEND_MESSAGE|{"ref_message_id":"295","sender_id":"32","message":"reply psychis adam 3","request_url":"reply=0&number=447960759867&network=INTERNATIONAL&message=reply+psychis+adam+3&value=0&currency=gbp&cc=psychiccontact&title=jayson101&ekey=1a989ce5a9b504b267a810be41c8d114"}
+2017-06-05 13:57:33|SEND_MESSAGE|SUCCESS
+2017-06-05 14:30:51|SEND_MESSAGE||32|
+2017-06-05 14:30:51|SEND_MESSAGE|You must include an inbound message ID
+2017-06-05 14:30:51|SEND_MESSAGE|You must include a message to send
+2017-06-05 14:30:51|SEND_MESSAGE|Inbound message does not exist
+2017-06-05 14:31:45|SEND_MESSAGE|300|32|
+2017-06-05 14:31:45|SEND_MESSAGE|You must include a message to send
+2017-06-05 14:36:29|SEND_MESSAGE|300|32|
+2017-06-05 14:36:29|SEND_MESSAGE|You must include a message to send
+2017-06-05 14:36:35|SEND_MESSAGE|300|32|
+2017-06-05 14:36:35|SEND_MESSAGE|You must include a message to send
+2017-06-05 14:37:19|SEND_MESSAGE|304|32|
+2017-06-05 14:37:19|SEND_MESSAGE|You must include a message to send
+2017-06-05 14:37:37|SEND_MESSAGE|300|32|
+2017-06-05 14:37:37|SEND_MESSAGE|You must include a message to send
+2017-06-05 15:11:19|SEND_MESSAGE|303|15|this is a reply to opt out test 2

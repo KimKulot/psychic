@@ -1,0 +1,83 @@
+2017-06-02 13:46:31|162.13.59.148|POST_PARAMS|null
+2017-06-02 13:46:31|POST|447799906908|psychics opt out testing|VODAFONE14UK|1048328209
+2017-06-02 13:46:31|SUCCESS
+2017-06-02 13:52:55|162.13.59.148|POST_PARAMS|null
+2017-06-02 13:52:55|POST|447799906908|ask psychiccontact stop|WORLDSTOP|1048329188
+2017-06-02 13:52:55|BARRED
+2017-06-02 13:52:55|BARRED|FAILED curl
+2017-06-02 13:53:49|162.13.59.148|POST_PARAMS|null
+2017-06-02 13:53:49|POST|447799906908|psychics opt out test 2|VODAFONE14UK|1048329408
+2017-06-02 13:53:49|SUCCESS
+2017-06-02 13:53:49|{"action":"mpush_ir_message","billing":"MT","country":"UK","number":"447799906908","network":"VODAFONE14UK","shortcode":"68899","message":"psychics opt out test 2","request_url":"reply=1&id=1048329408&number=447799906908&network=VODAFONE14UK&message=We+have+successfully+received+your+message.+A+psychic+will+reply+to+in+a+short+while.&value=1.5&currency=gbp&cc=psychiccontact&title=&ekey=1a989ce5a9b504b267a810be41c8d114","txtnation_msg_id":"1048329408"}
+2017-06-02 13:53:56|162.13.59.148|POST_PARAMS|null
+2017-06-02 13:53:56|POST|447799906908|ask psychiccontact stop|WORLDSTOP|1048329188
+2017-06-02 13:53:56|ERROR IR-104
+2017-06-02 13:53:56|ERROR IR-104|FAILED curl
+2017-06-02 13:54:20|162.13.59.148|POST_PARAMS|null
+2017-06-02 13:54:20|POST|447799906908|ask psychiccontact stop|WORLDSTOP|1048329188
+2017-06-02 13:54:20|BARRED
+2017-06-02 13:54:20|BARRED|FAILED curl
+2017-06-02 13:54:38|162.13.59.148|POST_PARAMS|null
+2017-06-02 13:54:38|POST|447799906908|ask psychiccontact stop|WORLDSTOP|1048329435
+2017-06-02 13:54:38|BARRED
+2017-06-02 13:54:38|BARRED|FAILED curl
+2017-06-02 13:58:45|162.13.59.148|POST_PARAMS|null
+2017-06-02 13:58:45|POST|447445566731|psychics opt out test3|THREE14UK|1048329984
+2017-06-02 13:58:45|SUCCESS
+2017-06-02 13:58:45|{"action":"mpush_ir_message","billing":"MT","country":"UK","number":"447445566731","network":"THREE14UK","shortcode":"68899","message":"psychics opt out test3","request_url":"reply=1&id=1048329984&number=447445566731&network=THREE14UK&message=We+have+successfully+received+your+message.+A+psychic+will+reply+to+in+a+short+while.&value=1.5&currency=gbp&cc=psychiccontact&title=&ekey=1a989ce5a9b504b267a810be41c8d114","txtnation_msg_id":"1048329984"}
+2017-06-02 13:59:45|162.13.59.148|POST_PARAMS|null
+2017-06-02 13:59:45|POST|447445566731|ask psychiccontact stop|WORLDSTOP|1048330012
+2017-06-02 13:59:45|BARRED
+2017-06-02 13:59:45|BARRED|FAILED curl
+2017-06-02 14:14:31|162.13.59.148|POST_PARAMS|null
+2017-06-02 14:14:31|POST|447799906908|psychics further opt out test|VODAFONE14UK|1048333406
+2017-06-02 14:14:31|SUCCESS
+2017-06-02 14:14:31|{"action":"mpush_ir_message","billing":"MT","country":"UK","number":"447799906908","network":"VODAFONE14UK","shortcode":"68899","message":"psychics further opt out test","request_url":"reply=1&id=1048333406&number=447799906908&network=VODAFONE14UK&message=We+have+successfully+received+your+message.+A+psychic+will+reply+to+in+a+short+while.&value=1.5&currency=gbp&cc=psychiccontact&title=&ekey=1a989ce5a9b504b267a810be41c8d114","txtnation_msg_id":"1048333406"}
+2017-06-02 14:15:18|162.13.59.148|POST_PARAMS|null
+2017-06-02 14:15:18|POST|447799906908|ask psychiccontact stop|WORLDSTOP|1048333425
+2017-06-02 14:15:18|BARRED
+2017-06-02 14:15:18|BARRED|FAILED curl
+2017-06-02 14:49:43|162.13.59.148|POST_PARAMS|null
+2017-06-02 14:49:43|POST|447808242645|psychics further opt out 2|O214UK|1048338838
+2017-06-02 14:49:43|SUCCESS
+2017-06-02 14:49:43|{"action":"mpush_ir_message","billing":"MT","country":"UK","number":"447808242645","network":"O214UK","shortcode":"68899","message":"psychics further opt out 2","request_url":"reply=1&id=1048338838&number=447808242645&network=O214UK&message=We+have+successfully+received+your+message.+A+psychic+will+reply+to+in+a+short+while.&value=1.5&currency=gbp&cc=psychiccontact&title=&ekey=1a989ce5a9b504b267a810be41c8d114","txtnation_msg_id":"1048338838"}
+2017-06-02 14:53:04|162.13.59.148|POST_PARAMS|null
+2017-06-02 14:53:04|POST|447808242645|ask psychiccontact stop|WORLDSTOP|1048338960
+2017-06-02 14:53:04|BARRED
+2017-06-02 14:53:04|BARRED|FAILED curl
+2017-06-02 14:54:58|162.13.59.148|POST_PARAMS|null
+2017-06-02 14:54:58|POST|447808242645|ask psychiccontact stop|WORLDSTOP|1048338960
+2017-06-02 14:54:58|BARRED
+2017-06-02 14:54:58|BARRED|FAILED curl
+2017-06-02 14:55:41|162.13.59.148|POST_PARAMS|null
+2017-06-02 14:55:41|POST|447808242645|ask psychiccontact stop|WORLDSTOP|1048338960
+2017-06-02 14:55:41|BARRED
+2017-06-02 14:55:41|BARRED|FAILED curl
+2017-06-02 15:22:32|162.13.59.148|POST_PARAMS|null
+2017-06-02 15:22:32|POST|447808242645|psychics test again 1|O214UK|1048342728
+2017-06-02 15:22:32|SUCCESS
+2017-06-02 15:22:32|{"action":"mpush_ir_message","billing":"MT","country":"UK","number":"447808242645","network":"O214UK","shortcode":"68899","message":"psychics test again 1","request_url":"reply=1&id=1048342728&number=447808242645&network=O214UK&message=We+have+successfully+received+your+message.+A+psychic+will+reply+to+in+a+short+while.&value=1.5&currency=gbp&cc=psychiccontact&title=&ekey=1a989ce5a9b504b267a810be41c8d114","txtnation_msg_id":"1048342728"}
+2017-06-02 15:23:10|162.13.59.148|POST_PARAMS|null
+2017-06-02 15:23:10|POST|447808242645|psychics test again 2|O214UK|1048342851
+2017-06-02 15:23:10|SUCCESS
+2017-06-02 15:23:10|{"action":"mpush_ir_message","billing":"MT","country":"UK","number":"447808242645","network":"O214UK","shortcode":"68899","message":"psychics test again 2","request_url":"reply=1&id=1048342851&number=447808242645&network=O214UK&message=We+have+successfully+received+your+message.+A+psychic+will+reply+to+in+a+short+while.&value=1.5&currency=gbp&cc=psychiccontact&title=&ekey=1a989ce5a9b504b267a810be41c8d114","txtnation_msg_id":"1048342851"}
+2017-06-02 15:23:43|162.13.59.148|POST_PARAMS|null
+2017-06-02 15:23:43|POST|447808242645|ask psychiccontact stop|WORLDSTOP|1048342763
+2017-06-02 15:23:43|BARRED
+2017-06-02 15:23:43|BARRED|FAILED curl
+2017-06-02 15:23:43|BARRED|NEW Subs
+2017-06-02 15:31:04|SEND_MESSAGE|306|32|this is a test reply
+2017-06-02 15:31:04|SEND_MESSAGE|{"ref_message_id":"306","sender_id":"32","message":"this is a test reply","request_url":"reply=0&number=447808242645&network=INTERNATIONAL&message=this+is+a+test+reply&value=0&currency=gbp&cc=psychiccontact&title=jayson101&ekey=1a989ce5a9b504b267a810be41c8d114"}
+2017-06-02 15:31:04|SEND_MESSAGE|BARRED
+2017-06-02 15:31:04|SEND_MESSAGE|FAILED
+2017-06-02 15:31:04|SEND_MESSAGE|Recipient 447808242645: BARRED
+2017-06-02 15:39:13|162.13.59.148|POST_PARAMS|null
+2017-06-02 15:39:13|POST|447799906908|psychics more testing 1|VODAFONE14UK|1048350182
+2017-06-02 15:39:13|SUCCESS
+2017-06-02 15:39:13|{"action":"mpush_ir_message","billing":"MT","country":"UK","number":"447799906908","network":"VODAFONE14UK","shortcode":"68899","message":"psychics more testing 1","request_url":"reply=1&id=1048350182&number=447799906908&network=VODAFONE14UK&message=We+have+successfully+received+your+message.+A+psychic+will+reply+to+in+a+short+while.&value=1.5&currency=gbp&cc=psychiccontact&title=&ekey=1a989ce5a9b504b267a810be41c8d114","txtnation_msg_id":"1048350182"}
+2017-06-02 15:41:22|162.13.59.148|POST_PARAMS|null
+2017-06-02 15:41:22|POST|447799906908|ask psychiccontact stop|WORLDSTOP|1048350315
+2017-06-02 15:41:22|BARRED
+2017-06-02 15:41:22|BARRED|FAILED curl
+2017-06-02 15:41:22|BARRED|OLD Subs
+2017-06-02 15:42:10|SEND_MESSAGE|309|32|this is a test

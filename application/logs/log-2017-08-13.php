@@ -1,0 +1,6 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2017-08-13 02:31:35 --> Severity: error --> Exception: Call to a member function get_latest_blog() on null /home/apptextpsychic1002/htdoc/text-a-psychic.com/application/controllers/Blog.php 25
+ERROR - 2017-08-13 10:37:12 --> Severity: error --> Exception: Call to a member function get_latest_blog() on null /home/apptextpsychic1002/htdoc/text-a-psychic.com/application/controllers/Blog.php 25
+ERROR - 2017-08-13 16:02:32 --> Query error: Column 'request_url' cannot be null - Invalid query: INSERT INTO `inbound_messages` (`action`, `billing`, `country`, `number`, `network`, `shortcode`, `message`, `request_url`, `txtnation_msg_id`, `random`) VALUES ('mpush_ir_message', 'MT', 'UK', '447923172694', 'O214UK', '68899', 'psychics random what time is it ?', NULL, '1067697556', 0)
+ERROR - 2017-08-13 16:46:38 --> Query error: Column 'request_url' cannot be null - Invalid query: INSERT INTO `inbound_messages` (`action`, `billing`, `country`, `number`, `network`, `shortcode`, `message`, `request_url`, `txtnation_msg_id`, `random`) VALUES ('mpush_ir_message', 'MT', 'UK', '447923172694', 'O214UK', '68899', 'psychics random what colour are your slippers ?', NULL, '1067703979', 0)

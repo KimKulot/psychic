@@ -1,0 +1,51 @@
+2017-07-26 13:23:01|149.202.136.54|POST_PARAMS|null
+2017-07-26 13:23:01|POST|447799906908|psychic hello|VODAFONE14UK|1064558845
+2017-07-26 13:23:01|SUCCESS
+2017-07-26 13:24:04|149.202.136.54|POST_PARAMS|null
+2017-07-26 13:24:04|POST|447445566731|psychic hey|THREE14UK|1064558993
+2017-07-26 13:24:04|SUCCESS
+2017-07-26 13:24:32|149.202.136.54|POST_PARAMS|null
+2017-07-26 13:24:32|POST|447960759867|psychic hey|TMOBILE14UK|1064559081
+2017-07-26 13:24:32|SUCCESS
+2017-07-26 13:50:00|149.202.136.54|POST_PARAMS|null
+2017-07-26 13:50:00|POST|447445566731|psychic hey|THREE14UK|1064562584
+2017-07-26 13:50:00|SUCCESS
+2017-07-26 13:50:00|{"action":"mpush_ir_message","billing":"MT","country":"UK","number":"447445566731","network":"THREE14UK","shortcode":"68899","message":"psychic hey","request_url":"reply=1&id=1064562584&number=447445566731&network=THREE14UK&message=We+have+successfully+received+your+message.+A+psychic+will+reply+to+in+a+short+while.&value=1.5&currency=gbp&cc=psychiccontact&title=&ekey=1a989ce5a9b504b267a810be41c8d114","txtnation_msg_id":"1064562584","random":0}
+2017-07-26 13:50:14|149.202.136.54|POST_PARAMS|null
+2017-07-26 13:50:14|POST|447960759867|psychics test|TMOBILE14UK|1064562627
+2017-07-26 13:50:14|SUCCESS
+2017-07-26 13:50:14|{"action":"mpush_ir_message","billing":"MT","country":"UK","number":"447960759867","network":"TMOBILE14UK","shortcode":"68899","message":"psychics test","request_url":"reply=1&id=1064562627&number=447960759867&network=TMOBILE14UK&message=We+have+successfully+received+your+message.+A+psychic+will+reply+to+in+a+short+while.&value=1.5&currency=gbp&cc=psychiccontact&title=&ekey=1a989ce5a9b504b267a810be41c8d114","txtnation_msg_id":"1064562627","random":0}
+2017-07-26 13:50:20|149.202.136.54|POST_PARAMS|null
+2017-07-26 13:50:20|POST|447960759867|psychic test|TMOBILE14UK|1064562653
+2017-07-26 13:50:20|SUCCESS
+2017-07-26 13:50:20|{"action":"mpush_ir_message","billing":"MT","country":"UK","number":"447960759867","network":"TMOBILE14UK","shortcode":"68899","message":"psychic test","request_url":"reply=1&id=1064562653&number=447960759867&network=TMOBILE14UK&message=We+have+successfully+received+your+message.+A+psychic+will+reply+to+in+a+short+while.&value=1.5&currency=gbp&cc=psychiccontact&title=&ekey=1a989ce5a9b504b267a810be41c8d114","txtnation_msg_id":"1064562653","random":0}
+2017-07-26 13:50:28|149.202.136.54|POST_PARAMS|null
+2017-07-26 13:50:28|POST|447799906908|psychic hey|VODAFONE14UK|1064562683
+2017-07-26 13:50:28|SUCCESS
+2017-07-26 13:50:28|{"action":"mpush_ir_message","billing":"MT","country":"UK","number":"447799906908","network":"VODAFONE14UK","shortcode":"68899","message":"psychic hey","request_url":"reply=1&id=1064562683&number=447799906908&network=VODAFONE14UK&message=We+have+successfully+received+your+message.+A+psychic+will+reply+to+in+a+short+while.&value=1.5&currency=gbp&cc=psychiccontact&title=&ekey=1a989ce5a9b504b267a810be41c8d114","txtnation_msg_id":"1064562683","random":0}
+2017-07-26 14:07:08|SEND_MESSAGE|24|15|this is a reply
+2017-07-26 14:07:08|SEND_MESSAGE|{"ref_message_id":"24","sender_id":"15","message":"this is a reply","request_url":"reply=0&number=447799906908&network=INTERNATIONAL&message=this+is+a+reply&value=0&currency=gbp&cc=psychiccontact&title=test101&ekey=1a989ce5a9b504b267a810be41c8d114"}
+2017-07-26 14:07:08|SEND_MESSAGE|SUCCESS
+2017-07-26 14:15:21|SEND_MESSAGE|23|15|testing reply from 68899
+2017-07-26 14:15:22|149.202.136.54|POST_PARAMS|null
+2017-07-26 14:15:22|POST|447799906908|psychic random message|VODAFONE14UK|1064566659
+2017-07-26 14:15:21|SEND_MESSAGE|{"ref_message_id":"23","sender_id":"15","message":"testing reply from 68899","request_url":"reply=0&number=447960759867&network=INTERNATIONAL&message=testing+reply+from+68899&value=0&currency=gbp&cc=psychiccontact&title=68899&ekey=1a989ce5a9b504b267a810be41c8d114"}
+2017-07-26 14:15:21|SEND_MESSAGE|SUCCESS
+2017-07-26 14:15:22|SUCCESS
+2017-07-26 14:15:22|{"action":"mpush_ir_message","billing":"MT","country":"UK","number":"447799906908","network":"VODAFONE14UK","shortcode":"68899","message":"psychic random message","request_url":"reply=1&id=1064566659&number=447799906908&network=VODAFONE14UK&message=We+have+successfully+received+your+message.+A+psychic+will+reply+to+in+a+short+while.&value=1.5&currency=gbp&cc=psychiccontact&title=&ekey=1a989ce5a9b504b267a810be41c8d114","txtnation_msg_id":"1064566659","random":1}
+2017-07-26 14:15:38|149.202.136.54|POST_PARAMS|null
+2017-07-26 14:15:38|POST|447445566731|psychic random test|THREE14UK|1064566733
+2017-07-26 14:15:38|SUCCESS
+2017-07-26 14:15:38|{"action":"mpush_ir_message","billing":"MT","country":"UK","number":"447445566731","network":"THREE14UK","shortcode":"68899","message":"psychic random test","request_url":"reply=1&id=1064566733&number=447445566731&network=THREE14UK&message=We+have+successfully+received+your+message.+A+psychic+will+reply+to+in+a+short+while.&value=1.5&currency=gbp&cc=psychiccontact&title=&ekey=1a989ce5a9b504b267a810be41c8d114","txtnation_msg_id":"1064566733","random":1}
+2017-07-26 14:16:00|149.202.136.54|POST_PARAMS|null
+2017-07-26 14:16:00|POST|447960759867|psychic random play|TMOBILE14UK|1064566812
+2017-07-26 14:16:00|SUCCESS
+2017-07-26 14:16:00|{"action":"mpush_ir_message","billing":"MT","country":"UK","number":"447960759867","network":"TMOBILE14UK","shortcode":"68899","message":"psychic random play","request_url":"reply=1&id=1064566812&number=447960759867&network=TMOBILE14UK&message=We+have+successfully+received+your+message.+A+psychic+will+reply+to+in+a+short+while.&value=1.5&currency=gbp&cc=psychiccontact&title=&ekey=1a989ce5a9b504b267a810be41c8d114","txtnation_msg_id":"1064566812","random":1}
+2017-07-26 14:18:20|SEND_MESSAGE|27|15|reply to random message play
+2017-07-26 14:18:20|SEND_MESSAGE|Random Message
+2017-07-26 14:18:20|SEND_MESSAGE|{"ref_message_id":"27","sender_id":"15","message":"reply to random message play","request_url":"reply=0&number=447960759867&network=INTERNATIONAL&message=reply+to+random+message+play&value=0&currency=gbp&cc=psychiccontact&title=68899&ekey=1a989ce5a9b504b267a810be41c8d114"}
+2017-07-26 14:18:20|SEND_MESSAGE|SUCCESS
+2017-07-26 14:18:48|SEND_MESSAGE|27|9|reply to random message play from reader test2
+2017-07-26 14:18:48|SEND_MESSAGE|Random Message
+2017-07-26 14:18:48|SEND_MESSAGE|{"ref_message_id":"27","sender_id":"9","message":"reply to random message play from reader test2","request_url":"reply=0&number=447960759867&network=INTERNATIONAL&message=reply+to+random+message+play+from+reader+test2&value=0&currency=gbp&cc=psychiccontact&title=68899&ekey=1a989ce5a9b504b267a810be41c8d114"}
+2017-07-26 14:18:48|SEND_MESSAGE|SUCCESS

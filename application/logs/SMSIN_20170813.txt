@@ -1,0 +1,6 @@
+2017-08-13 16:02:29 - POST_REQUEST:149.202.136.54|447923172694|psychics random what time is it ?|O214UK|1067697556
+2017-08-13 16:02:29 - RESPONSE_TEXT: RANDOM|Purchase 4 Random Reader Replies. 1st Reader reply is free. Next 3 random replies £1.50ea. Send PSYCHICS YES to 68899 to proceed/agree to the charges.
+2017-08-13 16:02:32 - API RESPONSE:reply=1&id=1067697556&number=447923172694&network=O214UK&message=Purchase 4 Random Reader Replies. 1st Reader reply is free. Next 3 random replies £1.50ea. Send PSYCHICS YES to 68899 to proceed/agree to the charges.&value=1.5&currency=gbp&cc=psychiccontact&title=&ekey=1a989ce5a9b504b267a810be41c8d114|SUCCESS
+2017-08-13 16:46:36 - POST_REQUEST:149.202.136.54|447923172694|psychics random what colour are your slippers ?|O214UK|1067703979
+2017-08-13 16:46:36 - RESPONSE_TEXT: RANDOM|Purchase 4 Random Reader Replies. 1st Reader reply is free. Next 3 random replies £1.50ea. Send PSYCHICS YES to 68899 to proceed/agree to the charges.
+2017-08-13 16:46:38 - API RESPONSE:reply=1&id=1067703979&number=447923172694&network=O214UK&message=Purchase 4 Random Reader Replies. 1st Reader reply is free. Next 3 random replies £1.50ea. Send PSYCHICS YES to 68899 to proceed/agree to the charges.&value=1.5&currency=gbp&cc=psychiccontact&title=&ekey=1a989ce5a9b504b267a810be41c8d114|SUCCESS

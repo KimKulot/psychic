@@ -1,0 +1,62 @@
+2017-11-30 11:42:57 - POST_PARAMS:null
+2017-11-30 11:42:57 - POST:149.202.136.54|447799906908|psychics what day is it?|VODAFONE14UK|1091562208
+2017-11-30 11:42:59 - POST:strBuffer
+2017-11-30 11:42:59 - POST:{"action":"mpush_ir_message","billing":"MT","country":"UK","number":"447799906908","network":"VODAFONE14UK","shortcode":"68899","message":"psychics what day is it?","request_url":"reply=1&id=1091562208&number=447799906908&network=VODAFONE14UK&message=We+have+received+your+question.+The+charge+to+your+phone+is+%C2%A31.50.+A+Psychic+will+answer+shortly.+More+info%3F+Txt+PSYCHICS+INFO+to+68899.&value=1.5&currency=gbp&cc=psychiccontact&title=&ekey=1a989ce5a9b504b267a810be41c8d114","txtnation_msg_id":"1091562208","random":0}
+2017-11-30 11:43:15 - POST_PARAMS:null
+2017-11-30 11:43:15 - POST:149.202.136.54|447799906908|psychics will i be rich soon?|VODAFONE14UK|1091562283
+2017-11-30 11:43:17 - POST:strBuffer
+2017-11-30 11:43:17 - POST:{"action":"mpush_ir_message","billing":"MT","country":"UK","number":"447799906908","network":"VODAFONE14UK","shortcode":"68899","message":"psychics will i be rich soon?","request_url":"reply=1&id=1091562283&number=447799906908&network=VODAFONE14UK&message=We+have+received+your+question.+The+charge+to+your+phone+is+%C2%A31.50.+A+Psychic+will+answer+shortly.+More+info%3F+Txt+PSYCHICS+INFO+to+68899.&value=1.5&currency=gbp&cc=psychiccontact&title=&ekey=1a989ce5a9b504b267a810be41c8d114","txtnation_msg_id":"1091562283","random":0}
+2017-11-30 11:44:11 - POST_PARAMS:null
+2017-11-30 11:44:11 - POST:149.202.136.54|447799906908|psychics 3254 what colour is my hair|VODAFONE14UK|1091562470
+2017-11-30 11:44:13 - POST:strBuffer
+2017-11-30 11:44:13 - POST:{"action":"mpush_ir_message","billing":"MT","country":"UK","number":"447799906908","network":"VODAFONE14UK","shortcode":"68899","message":"psychics 3254 what colour is my hair","request_url":"reply=1&id=1091562470&number=447799906908&network=VODAFONE14UK&message=We+have+received+your+question.+The+charge+to+your+phone+is+%C2%A31.50.+A+Psychic+will+answer+shortly.+More+info%3F+Txt+PSYCHICS+INFO+to+68899.&value=1.5&currency=gbp&cc=psychiccontact&title=&ekey=1a989ce5a9b504b267a810be41c8d114","txtnation_msg_id":"1091562470","random":0}
+2017-11-30 11:44:40 - POST_PARAMS:null
+2017-11-30 11:44:40 - POST:149.202.136.54|447799906908|psychics 0488 what time is it where i am|VODAFONE14UK|1091562571
+2017-11-30 11:44:48 - POST:strBuffer
+2017-11-30 11:44:48 - POST:{"action":"mpush_ir_message","billing":"MT","country":"UK","number":"447799906908","network":"VODAFONE14UK","shortcode":"68899","message":"psychics 0488 what time is it where i am","request_url":"reply=1&id=1091562571&number=447799906908&network=VODAFONE14UK&message=We+have+received+your+question.+The+charge+to+your+phone+is+%C2%A31.50.+A+Psychic+will+answer+shortly.+More+info%3F+Txt+PSYCHICS+INFO+to+68899.&value=1.5&currency=gbp&cc=psychiccontact&title=&ekey=1a989ce5a9b504b267a810be41c8d114","txtnation_msg_id":"1091562571","random":0}
+2017-11-30 11:45:05 - POST_PARAMS:null
+2017-11-30 11:45:05 - POST:149.202.136.54|447799906908|psychics 1092 is it sunny where i am|VODAFONE14UK|1091562633
+2017-11-30 11:45:07 - POST:strBuffer
+2017-11-30 11:45:07 - POST:{"action":"mpush_ir_message","billing":"MT","country":"UK","number":"447799906908","network":"VODAFONE14UK","shortcode":"68899","message":"psychics 1092 is it sunny where i am","request_url":"reply=1&id=1091562633&number=447799906908&network=VODAFONE14UK&message=We+have+received+your+question.+The+charge+to+your+phone+is+%C2%A31.50.+A+Psychic+will+answer+shortly.+More+info%3F+Txt+PSYCHICS+INFO+to+68899.&value=1.5&currency=gbp&cc=psychiccontact&title=&ekey=1a989ce5a9b504b267a810be41c8d114","txtnation_msg_id":"1091562633","random":0}
+2017-11-30 11:46:01 - POST_PARAMS:null
+2017-11-30 11:46:01 - POST:149.202.136.54|447799906908|psychics info|VODAFONE14UK|1091562847
+2017-11-30 11:46:06 - POST:strBuffer
+2017-11-30 11:48:13 - POST_PARAMS:null
+2017-11-30 11:48:13 - POST:149.202.136.54|447799906908|psychics random what time is it here?|VODAFONE14UK|1091563328
+2017-11-30 11:48:15 - POST:strBuffer
+2017-11-30 11:48:15 - POST:{"action":"mpush_ir_message","billing":"MT","country":"UK","number":"447799906908","network":"VODAFONE14UK","shortcode":"68899","message":"psychics random what time is it here?","request_url":"reply=1&id=1091563328&number=447799906908&network=VODAFONE14UK&message=Purchase 4 Random Reader Replies. 1st Reader reply is free. Next 3 different reader cost \u00a31.50 per message total \u00a34.50. Send PSYCHICS YES to 68899 to agree.&value=1.5&currency=gbp&cc=psychiccontact&title=&ekey=1a989ce5a9b504b267a810be41c8d114","txtnation_msg_id":"1091563328","random":0}
+2017-11-30 11:48:35 - POST_PARAMS:null
+2017-11-30 11:48:35 - POST:149.202.136.54|447799906908|psychics yes|VODAFONE14UK|1091563427
+2017-11-30 11:48:37 - POST:strBuffer
+2017-11-30 11:49:43 - POST_PARAMS:null
+2017-11-30 11:49:43 - POST:149.202.136.54|447799906908|psychics random whats the weathe like here|VODAFONE14UK|1091563657
+2017-11-30 11:49:45 - POST:strBuffer
+2017-11-30 11:49:45 - POST:{"action":"mpush_ir_message","billing":"MT","country":"UK","number":"447799906908","network":"VODAFONE14UK","shortcode":"68899","message":"psychics random whats the weathe like here","request_url":"reply=1&id=1091563657&number=447799906908&network=VODAFONE14UK&message=Purchase 4 Random Reader Replies. 1st Reader reply is free. Next 3 different reader cost \u00a31.50 per message total \u00a34.50. Send PSYCHICS YES to 68899 to agree.&value=1.5&currency=gbp&cc=psychiccontact&title=&ekey=1a989ce5a9b504b267a810be41c8d114","txtnation_msg_id":"1091563657","random":0}
+2017-11-30 11:50:03 - POST_PARAMS:null
+2017-11-30 11:50:03 - POST:149.202.136.54|447799906908|psychics yes|VODAFONE14UK|1091563721
+2017-11-30 11:50:05 - POST:strBuffer
+2017-11-30 11:56:36 - POST_PARAMS:null
+2017-11-30 11:56:36 - POST:149.202.136.54|447799906908|psychics will be i famous|VODAFONE14UK|1091564946
+2017-11-30 11:56:38 - POST:strBuffer
+2017-11-30 11:56:38 - POST:{"action":"mpush_ir_message","billing":"MT","country":"UK","number":"447799906908","network":"VODAFONE14UK","shortcode":"68899","message":"psychics will be i famous","request_url":"reply=1&id=1091564946&number=447799906908&network=VODAFONE14UK&message=We+have+received+your+question.+The+charge+to+your+phone+is+%C2%A31.50.+A+Psychic+will+answer+shortly.+More+info%3F+Txt+PSYCHICS+INFO+to+68899.&value=1.5&currency=gbp&cc=psychiccontact&title=&ekey=1a989ce5a9b504b267a810be41c8d114","txtnation_msg_id":"1091564946","random":0}
+2017-11-30 11:57:27 - POST_PARAMS:null
+2017-11-30 11:57:27 - POST:149.202.136.54|447799906908|psychics have i been off work this week|VODAFONE14UK|1091565089
+2017-11-30 11:57:29 - POST:strBuffer
+2017-11-30 11:57:29 - POST:{"action":"mpush_ir_message","billing":"MT","country":"UK","number":"447799906908","network":"VODAFONE14UK","shortcode":"68899","message":"psychics have i been off work this week","request_url":"reply=1&id=1091565089&number=447799906908&network=VODAFONE14UK&message=We+have+received+your+question.+The+charge+to+your+phone+is+%C2%A31.50.+A+Psychic+will+answer+shortly.+More+info%3F+Txt+PSYCHICS+INFO+to+68899.&value=1.5&currency=gbp&cc=psychiccontact&title=&ekey=1a989ce5a9b504b267a810be41c8d114","txtnation_msg_id":"1091565089","random":0}
+2017-11-30 11:59:23 - POST_PARAMS:null
+2017-11-30 11:59:23 - POST:149.202.136.54|447799906908|psychics 1092 how hot is it today|VODAFONE14UK|1091565349
+2017-11-30 11:59:25 - POST:strBuffer
+2017-11-30 11:59:25 - POST:{"action":"mpush_ir_message","billing":"MT","country":"UK","number":"447799906908","network":"VODAFONE14UK","shortcode":"68899","message":"psychics 1092 how hot is it today","request_url":"reply=1&id=1091565349&number=447799906908&network=VODAFONE14UK&message=We+have+received+your+question.+The+charge+to+your+phone+is+%C2%A31.50.+A+Psychic+will+answer+shortly.+More+info%3F+Txt+PSYCHICS+INFO+to+68899.&value=1.5&currency=gbp&cc=psychiccontact&title=&ekey=1a989ce5a9b504b267a810be41c8d114","txtnation_msg_id":"1091565349","random":0}
+2017-11-30 11:59:54 - POST_PARAMS:null
+2017-11-30 11:59:54 - POST:149.202.136.54|447799906908|psychics 5632 is it cold today|VODAFONE14UK|1091565374
+2017-11-30 11:59:56 - POST:strBuffer
+2017-11-30 11:59:56 - POST:{"action":"mpush_ir_message","billing":"MT","country":"UK","number":"447799906908","network":"VODAFONE14UK","shortcode":"68899","message":"psychics 5632 is it cold today","request_url":"reply=1&id=1091565374&number=447799906908&network=VODAFONE14UK&message=We+have+received+your+question.+The+charge+to+your+phone+is+%C2%A31.50.+A+Psychic+will+answer+shortly.+More+info%3F+Txt+PSYCHICS+INFO+to+68899.&value=1.5&currency=gbp&cc=psychiccontact&title=&ekey=1a989ce5a9b504b267a810be41c8d114","txtnation_msg_id":"1091565374","random":0}
+2017-11-30 11:59:56 - POST_PARAMS:null
+2017-11-30 11:59:56 - POST:149.202.136.54|447799906908|psychics 8842 will i be famous tomorrow|VODAFONE14UK|1091565402
+2017-11-30 11:59:58 - POST:strBuffer
+2017-11-30 11:59:58 - POST:{"action":"mpush_ir_message","billing":"MT","country":"UK","number":"447799906908","network":"VODAFONE14UK","shortcode":"68899","message":"psychics 8842 will i be famous tomorrow","request_url":"reply=1&id=1091565402&number=447799906908&network=VODAFONE14UK&message=We+have+received+your+question.+The+charge+to+your+phone+is+%C2%A31.50.+A+Psychic+will+answer+shortly.+More+info%3F+Txt+PSYCHICS+INFO+to+68899.&value=1.5&currency=gbp&cc=psychiccontact&title=&ekey=1a989ce5a9b504b267a810be41c8d114","txtnation_msg_id":"1091565402","random":0}
+2017-11-30 12:46:03 - POST_PARAMS:null
+2017-11-30 12:46:03 - POST:149.202.136.54|447445566731|ask psychiccontact stop|O220UK|1091575554
+2017-11-30 12:46:04 - POST:strBuffer
+2017-11-30 12:46:04 - POST:BARRED|FAILED curl
+2017-11-30 12:46:04 - POST:BARRED|OLD Subs

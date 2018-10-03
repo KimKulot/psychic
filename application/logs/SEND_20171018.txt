@@ -1,0 +1,38 @@
+2017-10-18 11:57:12 - 62|45|Chances of rain is 50%
+2017-10-18 11:57:13 - {"ref_message_id":"62","sender_id":"45","message":"Chances of rain is 50%","request_url":"reply=0&value=0&number=447960759867&network=INTERNATIONAL&message=Simon%3A+Chances+of+rain+is+50%25&currency=gbp&cc=psychiccontact&title=68899&ekey=1a989ce5a9b504b267a810be41c8d114"}
+2017-10-18 11:57:13 - SUCCESS
+2017-10-18 11:57:31 - 43|45|random reply
+2017-10-18 11:57:32 - {"ref_message_id":"43","sender_id":"45","message":"random reply","request_url":"reply=0&value=0&number=447960759867&network=INTERNATIONAL&message=Simon%3A+random+reply&currency=gbp&cc=psychiccontact&title=68899&ekey=1a989ce5a9b504b267a810be41c8d114"}
+2017-10-18 11:57:32 - SUCCESS
+2017-10-18 11:58:27 - 56|45|Weather will be good on Christmas ..Christmas is joy and sharing ..
+2017-10-18 11:58:29 - {"ref_message_id":"56","sender_id":"45","message":"Weather will be good on Christmas ..Christmas is joy and sharing ..","request_url":"reply=0&value=0&number=447960759867&network=INTERNATIONAL&message=Simon%3A+Weather+will+be+good+on+Christmas+..Christmas+is+joy+and+sharing+..&currency=gbp&cc=psychiccontact&title=68899&ekey=1a989ce5a9b504b267a810be41c8d114"}
+2017-10-18 11:58:29 - SUCCESS
+2017-10-18 13:08:27 - 66|45|No it is cloudy... :)
+2017-10-18 13:08:28 - {"ref_message_id":"66","sender_id":"45","message":"No it is cloudy... :)","request_url":"reply=0&value=0&number=447808242645&network=INTERNATIONAL&message=Simon%3A+No+it+is+cloudy...+%3A%29&currency=gbp&cc=psychiccontact&title=68899&ekey=1a989ce5a9b504b267a810be41c8d114"}
+2017-10-18 13:08:28 - SUCCESS
+2017-10-18 22:11:01 - 65|7|No - not in this lifetime - maybe the next one *
+2017-10-18 22:11:03 - {"ref_message_id":"65","sender_id":"7","message":"No - not in this lifetime - maybe the next one *","request_url":"reply=0&value=0&number=447808242645&network=INTERNATIONAL&message=aurora%3A+No+-+not+in+this+lifetime+-+maybe+the+next+one+%2A&currency=gbp&cc=psychiccontact&title=68899&ekey=1a989ce5a9b504b267a810be41c8d114"}
+2017-10-18 22:11:03 - SUCCESS
+2017-10-18 22:21:48 - 64|1|dgewydgewygdeyg
+2017-10-18 22:21:49 - {"ref_message_id":"64","sender_id":"1","message":"dgewydgewygdeyg","request_url":"reply=0&value=0&number=447808242645&network=INTERNATIONAL&message=jayson101%3A+dgewydgewygdeyg&currency=gbp&cc=psychiccontact&title=68899&ekey=1a989ce5a9b504b267a810be41c8d114"}
+2017-10-18 22:21:49 - SUCCESS
+2017-10-18 22:23:04 - 68|7|1111
+2017-10-18 22:23:04 - Random Message
+2017-10-18 22:23:04 - 68|1|1111
+2017-10-18 22:23:04 - Random Message
+2017-10-18 22:23:06 - {"ref_message_id":"68","sender_id":"7","message":"1111","request_url":"reply=0&value=0&number=447808242645&network=INTERNATIONAL&message=aurora%3A+1111&currency=gbp&cc=psychiccontact&title=68899&ekey=1a989ce5a9b504b267a810be41c8d114"}
+2017-10-18 22:23:06 - SUCCESS
+2017-10-18 22:23:06 - {"ref_message_id":"68","sender_id":"1","message":"1111","request_url":"reply=0&value=0&number=447808242645&network=INTERNATIONAL&message=jayson101%3A+1111&currency=gbp&cc=psychiccontact&title=68899&ekey=1a989ce5a9b504b267a810be41c8d114"}
+2017-10-18 22:23:06 - SUCCESS
+2017-10-18 22:23:06 - 68|1|1111
+2017-10-18 22:23:06 - Random Message
+2017-10-18 22:23:07 - {"ref_message_id":"68","sender_id":"1","message":"1111","request_url":"reply=0&value=1.5&number=447808242645&network=INTERNATIONAL&message=jayson101%3A+1111&currency=gbp&cc=psychiccontact&title=68899&ekey=1a989ce5a9b504b267a810be41c8d114"}
+2017-10-18 22:23:07 - SUCCESS
+2017-10-18 22:23:07 - 68|1|1111
+2017-10-18 22:23:07 - Random Message
+2017-10-18 22:23:09 - {"ref_message_id":"68","sender_id":"1","message":"1111","request_url":"reply=0&value=1.5&number=447808242645&network=INTERNATIONAL&message=jayson101%3A+1111&currency=gbp&cc=psychiccontact&title=68899&ekey=1a989ce5a9b504b267a810be41c8d114"}
+2017-10-18 22:23:09 - SUCCESS
+2017-10-18 22:24:04 - 68|7|blahhhhhhhhhhhhhhh
+2017-10-18 22:24:04 - Random Message
+2017-10-18 22:24:06 - {"ref_message_id":"68","sender_id":"7","message":"blahhhhhhhhhhhhhhh","request_url":"reply=0&value=1.5&number=447808242645&network=INTERNATIONAL&message=aurora%3A+blahhhhhhhhhhhhhhh&currency=gbp&cc=psychiccontact&title=68899&ekey=1a989ce5a9b504b267a810be41c8d114"}
+2017-10-18 22:24:06 - SUCCESS

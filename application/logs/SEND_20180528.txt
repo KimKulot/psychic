@@ -1,0 +1,4 @@
+2018-05-28 13:32:58 - 72|1|This is my answer to your question nigga
+2018-05-28 13:32:58 - Random Message
+2018-05-28 13:33:05 - {"ref_message_id":"72","sender_id":"1","message":"This is my answer to your question nigga","request_url":"reply=0&value=0&mobile_number=639098406622&message=jayson101%3A+This+is+my+answer+to+your+question+nigga&currency=gbp&cc=psychiccontact&title=68899&ekey=1a989ce5a9b504b267a810be41c8d114&type=reader"}
+2018-05-28 13:33:05 - {"data":{"message":{"status":202,"response":{"api_id":"98c26d94-6238-11e8-aa2a-06288090693c","message":"message(s) queued","message_uuid":["98c2e10c-6238-11e8-aa2a-06288090693c"]}}},"success":true,"errors":[]}

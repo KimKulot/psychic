@@ -1,0 +1,9 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2017-07-26 13:23:03 --> Severity: error --> Exception: Call to a member function first() on null /home/apptextpsychic1002/htdoc/text-a-psychic.com/application/controllers/Txtnation_api.php 143
+ERROR - 2017-07-26 13:24:06 --> Severity: error --> Exception: Call to a member function first() on null /home/apptextpsychic1002/htdoc/text-a-psychic.com/application/controllers/Txtnation_api.php 143
+ERROR - 2017-07-26 13:24:34 --> Severity: error --> Exception: Call to a member function first() on null /home/apptextpsychic1002/htdoc/text-a-psychic.com/application/controllers/Txtnation_api.php 143
+ERROR - 2017-07-26 13:50:02 --> Severity: Warning --> file_put_contents(/home/apptextpsychic1002/htdoc/text-a-psychic.com/application/logs/email.txt): failed to open stream: Permission denied /home/apptextpsychic1002/htdoc/text-a-psychic.com/application/controllers/Txtnation_api.php 179
+ERROR - 2017-07-26 13:50:16 --> Severity: Warning --> file_put_contents(/home/apptextpsychic1002/htdoc/text-a-psychic.com/application/logs/email.txt): failed to open stream: Permission denied /home/apptextpsychic1002/htdoc/text-a-psychic.com/application/controllers/Txtnation_api.php 179
+ERROR - 2017-07-26 13:50:23 --> Severity: Warning --> file_put_contents(/home/apptextpsychic1002/htdoc/text-a-psychic.com/application/logs/email.txt): failed to open stream: Permission denied /home/apptextpsychic1002/htdoc/text-a-psychic.com/application/controllers/Txtnation_api.php 179
+ERROR - 2017-07-26 13:50:31 --> Severity: Warning --> file_put_contents(/home/apptextpsychic1002/htdoc/text-a-psychic.com/application/logs/email.txt): failed to open stream: Permission denied /home/apptextpsychic1002/htdoc/text-a-psychic.com/application/controllers/Txtnation_api.php 179

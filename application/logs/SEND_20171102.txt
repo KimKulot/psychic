@@ -1,0 +1,20 @@
+2017-11-02 15:04:00 - 85|3|reply to message 85
+2017-11-02 15:04:00 - Random Message
+2017-11-02 15:04:01 - {"ref_message_id":"85","sender_id":"3","message":"reply to message 85","request_url":"reply=0&value=0&number=447808242645&network=INTERNATIONAL&message=eric101%3A+reply+to+message+85&currency=gbp&cc=psychiccontact&title=68899&ekey=1a989ce5a9b504b267a810be41c8d114"}
+2017-11-02 15:04:01 - SUCCESS
+2017-11-02 15:19:50 - 84|1|test
+2017-11-02 15:19:50 - Random Message
+2017-11-02 15:19:51 - {"ref_message_id":"84","sender_id":"1","message":"test","request_url":"reply=0&value=0&number=447445566731&network=INTERNATIONAL&message=jayson101%3A+test&currency=gbp&cc=psychiccontact&title=68899&ekey=1a989ce5a9b504b267a810be41c8d114"}
+2017-11-02 15:19:51 - SUCCESS
+2017-11-02 15:20:14 - 84|3|test 2
+2017-11-02 15:20:14 - Random Message
+2017-11-02 15:20:16 - {"ref_message_id":"84","sender_id":"3","message":"test 2","request_url":"reply=0&value=1.5&number=447445566731&network=INTERNATIONAL&message=eric101%3A+test+2&currency=gbp&cc=psychiccontact&title=68899&ekey=1a989ce5a9b504b267a810be41c8d114"}
+2017-11-02 15:20:16 - SUCCESS
+2017-11-02 15:20:16 - 84|3|test 2
+2017-11-02 15:20:16 - Random Message
+2017-11-02 15:20:17 - {"ref_message_id":"84","sender_id":"3","message":"test 2","request_url":"reply=0&value=1.5&number=447445566731&network=INTERNATIONAL&message=eric101%3A+test+2&currency=gbp&cc=psychiccontact&title=68899&ekey=1a989ce5a9b504b267a810be41c8d114"}
+2017-11-02 15:20:17 - SUCCESS
+2017-11-02 15:25:57 - 82|3|asdfasdfdasf
+2017-11-02 15:25:57 - Random Message
+2017-11-02 15:25:58 - {"ref_message_id":"82","sender_id":"3","message":"asdfasdfdasf","request_url":"reply=0&value=0&number=447445566731&network=INTERNATIONAL&message=eric101%3A+asdfasdfdasf&currency=gbp&cc=psychiccontact&title=68899&ekey=1a989ce5a9b504b267a810be41c8d114"}
+2017-11-02 15:25:58 - SUCCESS

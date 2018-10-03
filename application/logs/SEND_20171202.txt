@@ -1,0 +1,7 @@
+2017-12-02 23:39:45 - 104|36|Your relationship looks very stable and I don't see that you will be changing jobs any time soon. However, watch out for dogs on the path at night especially. 
+2017-12-02 23:39:47 - {"ref_message_id":"104","sender_id":"36","message":"Your relationship looks very stable and I don't see that you will be changing jobs any time soon. However, watch out for dogs on the path at night especially. ","request_url":"reply=0&value=0&number=447808242645&network=INTERNATIONAL&message=Raven%3A+Your+relationship+looks+very+stable+and+I+don%27t+see+that+you+will+be+changing+jobs+any+time+soon.+However%2C+watch+out+for+dogs+on+the+path+at+night+especially.+&currency=gbp&cc=psychiccontact&title=68899&ekey=1a989ce5a9b504b267a810be41c8d114"}
+2017-12-02 23:39:47 - SUCCESS
+2017-12-02 23:49:11 - 119|36|Rainy, cold, really unpleasant with a touch of chocolate and Whipped Cream.
+2017-12-02 23:49:11 - Random Message
+2017-12-02 23:49:13 - {"ref_message_id":"119","sender_id":"36","message":"Rainy, cold, really unpleasant with a touch of chocolate and Whipped Cream.","request_url":"reply=0&value=0&number=447799906908&network=INTERNATIONAL&message=Raven%3A+Rainy%2C+cold%2C+really+unpleasant+with+a+touch+of+chocolate+and+Whipped+Cream.&currency=gbp&cc=psychiccontact&title=68899&ekey=1a989ce5a9b504b267a810be41c8d114"}
+2017-12-02 23:49:13 - SUCCESS

@@ -1,0 +1,52 @@
+2017-08-30 13:12:36 - 1|1|sometimes
+2017-08-30 13:12:37 - 1|1|jayson101: sometimes|SUCCESS
+2017-08-30 13:16:40 - 2|1|already has
+2017-08-30 13:16:41 - 2|1|jayson101: already has|SUCCESS
+2017-08-30 13:16:41 - 2|1|already has
+2017-08-30 13:16:41 - 2|1|already has
+2017-08-30 13:16:42 - 2|1|already has
+2017-08-30 13:17:59 - 3|3|msg id 3 reply ..
+2017-08-30 13:18:01 - 3|3|eric101: msg id 3 reply ..|SUCCESS
+2017-08-30 13:18:07 - 4|1|only on Sunday
+2017-08-30 13:18:09 - 4|1|jayson101: only on Sunday|SUCCESS
+2017-08-30 13:24:22 - 5|3|Hello anonymous .. reply to msg id 5
+2017-08-30 13:24:23 - 5|3|eric101: Hello anonymous .. reply to msg id 5|SUCCESS
+2017-08-30 13:24:37 - 8|1|nope I already did
+2017-08-30 13:24:38 - 8|1|jayson101: nope I already did|SUCCESS
+2017-08-30 13:25:05 - 6|1|only on Abbey Road
+2017-08-30 13:25:06 - 6|1|jayson101: only on Abbey Road|SUCCESS
+2017-08-30 13:28:11 - 9|1|they are standing next to you on the train
+2017-08-30 13:28:12 - 9|1|jayson101: they are standing next to you on the train|SUCCESS
+2017-08-30 13:28:35 - 7|1|I prefer elbows
+2017-08-30 13:28:36 - 7|1|jayson101: I prefer elbows|SUCCESS
+2017-08-30 13:37:45 - 10|3|You are young as you feel. reply to msg id 10...
+2017-08-30 13:37:46 - 10|3|eric101: You are young as you feel. reply to msg id 10...|0|SUCCESS
+2017-08-30 13:37:46 - 10|3|You are young as you feel. reply to msg id 10...
+2017-08-30 13:47:57 - 12|1|will he let you?
+2017-08-30 13:47:59 - 12|1|jayson101: will he let you?|0|SUCCESS
+2017-08-30 13:57:17 - 13|1|tues
+2017-08-30 13:57:19 - 13|1|jayson101: tues|0|SUCCESS
+2017-08-30 14:58:13 - 13|4|on the 25th day of December
+2017-08-30 14:58:14 - 13|4|joy101: on the 25th day of December|1.5|SUCCESS
+2017-08-30 14:59:22 - 13|3|Only time will tell... reply to msg id 13 ..
+2017-08-30 14:59:24 - 13|3|eric101: Only time will tell... reply to msg id 13 ..|1.5|SUCCESS
+2017-08-30 15:00:32 - 11|3|reply to msg id 11
+2017-08-30 15:00:33 - 11|3|eric101: reply to msg id 11|0|SUCCESS
+2017-08-30 15:00:33 - 11|3|reply to msg id 11
+2017-08-30 15:03:54 - 8|3|No . reply to msg id 8.
+2017-08-30 15:03:56 - 8|3|eric101: No . reply to msg id 8.|1.5|SUCCESS
+2017-08-30 15:04:06 - 8|4|yes definitely!
+2017-08-30 15:04:08 - 8|4|joy101: yes definitely!|1.5|SUCCESS
+2017-08-30 15:20:22 - 14|42|tonight!!!
+2017-08-30 15:20:23 - 14|42|TestReader: tonight!!!|0|SUCCESS
+2017-08-30 15:20:43 - 14|4|tomorrow!!!
+2017-08-30 15:20:44 - 14|4|joy101: tomorrow!!!|1.5|SUCCESS
+2017-08-30 15:21:12 - 14|3|Good Luck will come soon ... reply to msg id 14..
+2017-08-30 15:21:13 - 14|3|eric101: Good Luck will come soon ... reply to msg id 14..|1.5|SUCCESS
+2017-08-30 15:35:17 - 15|3|Yes . msg reply to id 15 --- exclusive to reader
+2017-08-30 15:35:18 - 15|3|eric101: Yes . msg reply to id 15 --- exclusive to reader|0|SUCCESS
+2017-08-30 15:35:18 - 15|3|Yes . msg reply to id 15 --- exclusive to reader
+2017-08-30 15:39:41 - 8|42|yes, buy a ticket now!
+2017-08-30 15:39:43 - 8|42|TestReader: yes, buy a ticket now!|1.5|SUCCESS
+2017-08-30 15:40:45 - 16|3|It's cloudy and humid .... reply to msg id 16...
+2017-08-30 15:40:46 - 16|3|eric101: It's cloudy and humid .... reply to msg id 16...|0|SUCCESS

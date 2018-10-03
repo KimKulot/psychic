@@ -1,0 +1,89 @@
+2017-08-30 13:12:36 - 1|1|sometimes
+2017-08-30 13:12:37 - {"ref_message_id":"1","sender_id":"1","message":"sometimes","request_url":"reply=0&value=0&number=447960759867&network=INTERNATIONAL&message=jayson101%3A+sometimes&currency=gbp&cc=psychiccontact&title=68899&ekey=1a989ce5a9b504b267a810be41c8d114"}
+2017-08-30 13:12:37 - SUCCESS
+2017-08-30 13:16:40 - 2|1|already has
+2017-08-30 13:16:41 - {"ref_message_id":"2","sender_id":"1","message":"already has","request_url":"reply=0&value=0&number=447799906908&network=INTERNATIONAL&message=jayson101%3A+already+has&currency=gbp&cc=psychiccontact&title=68899&ekey=1a989ce5a9b504b267a810be41c8d114"}
+2017-08-30 13:16:41 - SUCCESS
+2017-08-30 13:16:41 - 2|1|already has
+2017-08-30 13:16:41 - Message is not yet marked as read
+2017-08-30 13:16:41 - 2|1|already has
+2017-08-30 13:16:41 - Message is not yet marked as read
+2017-08-30 13:16:42 - 2|1|already has
+2017-08-30 13:16:42 - Message is not yet marked as read
+2017-08-30 13:17:59 - 3|3|msg id 3 reply ..
+2017-08-30 13:18:01 - {"ref_message_id":"3","sender_id":"3","message":"msg id 3 reply ..","request_url":"reply=0&value=0&number=447799906908&network=INTERNATIONAL&message=eric101%3A+msg+id+3+reply+..&currency=gbp&cc=psychiccontact&title=68899&ekey=1a989ce5a9b504b267a810be41c8d114"}
+2017-08-30 13:18:01 - SUCCESS
+2017-08-30 13:18:07 - 4|1|only on Sunday
+2017-08-30 13:18:09 - {"ref_message_id":"4","sender_id":"1","message":"only on Sunday","request_url":"reply=0&value=0&number=447799906908&network=INTERNATIONAL&message=jayson101%3A+only+on+Sunday&currency=gbp&cc=psychiccontact&title=68899&ekey=1a989ce5a9b504b267a810be41c8d114"}
+2017-08-30 13:18:09 - SUCCESS
+2017-08-30 13:24:22 - 5|3|Hello anonymous .. reply to msg id 5
+2017-08-30 13:24:23 - {"ref_message_id":"5","sender_id":"3","message":"Hello anonymous .. reply to msg id 5","request_url":"reply=0&value=0&number=447960759867&network=INTERNATIONAL&message=eric101%3A+Hello+anonymous+..+reply+to+msg+id+5&currency=gbp&cc=psychiccontact&title=68899&ekey=1a989ce5a9b504b267a810be41c8d114"}
+2017-08-30 13:24:23 - SUCCESS
+2017-08-30 13:24:37 - 8|1|nope I already did
+2017-08-30 13:24:38 - {"ref_message_id":"8","sender_id":"1","message":"nope I already did","request_url":"reply=0&value=0&number=447799906908&network=INTERNATIONAL&message=jayson101%3A+nope+I+already+did&currency=gbp&cc=psychiccontact&title=68899&ekey=1a989ce5a9b504b267a810be41c8d114"}
+2017-08-30 13:24:38 - SUCCESS
+2017-08-30 13:25:05 - 6|1|only on Abbey Road
+2017-08-30 13:25:06 - {"ref_message_id":"6","sender_id":"1","message":"only on Abbey Road","request_url":"reply=0&value=0&number=447960759867&network=INTERNATIONAL&message=jayson101%3A+only+on+Abbey+Road&currency=gbp&cc=psychiccontact&title=68899&ekey=1a989ce5a9b504b267a810be41c8d114"}
+2017-08-30 13:25:06 - SUCCESS
+2017-08-30 13:28:11 - 9|1|they are standing next to you on the train
+2017-08-30 13:28:12 - {"ref_message_id":"9","sender_id":"1","message":"they are standing next to you on the train","request_url":"reply=0&value=0&number=447960759867&network=INTERNATIONAL&message=jayson101%3A+they+are+standing+next+to+you+on+the+train&currency=gbp&cc=psychiccontact&title=68899&ekey=1a989ce5a9b504b267a810be41c8d114"}
+2017-08-30 13:28:12 - SUCCESS
+2017-08-30 13:28:35 - 7|1|I prefer elbows
+2017-08-30 13:28:36 - {"ref_message_id":"7","sender_id":"1","message":"I prefer elbows","request_url":"reply=0&value=0&number=447799906908&network=INTERNATIONAL&message=jayson101%3A+I+prefer+elbows&currency=gbp&cc=psychiccontact&title=68899&ekey=1a989ce5a9b504b267a810be41c8d114"}
+2017-08-30 13:28:36 - SUCCESS
+2017-08-30 13:37:45 - 10|3|You are young as you feel. reply to msg id 10...
+2017-08-30 13:37:46 - {"ref_message_id":"10","sender_id":"3","message":"You are young as you feel. reply to msg id 10...","request_url":"reply=0&value=0&number=447960759867&network=INTERNATIONAL&message=eric101%3A+You+are+young+as+you+feel.+reply+to+msg+id+10...&currency=gbp&cc=psychiccontact&title=68899&ekey=1a989ce5a9b504b267a810be41c8d114"}
+2017-08-30 13:37:46 - SUCCESS
+2017-08-30 13:37:46 - 10|3|You are young as you feel. reply to msg id 10...
+2017-08-30 13:37:46 - Message is not yet marked as read
+2017-08-30 13:47:57 - 12|1|will he let you?
+2017-08-30 13:47:59 - {"ref_message_id":"12","sender_id":"1","message":"will he let you?","request_url":"reply=0&value=0&number=447960759867&network=INTERNATIONAL&message=jayson101%3A+will+he+let+you%3F&currency=gbp&cc=psychiccontact&title=68899&ekey=1a989ce5a9b504b267a810be41c8d114"}
+2017-08-30 13:47:59 - SUCCESS
+2017-08-30 13:57:17 - 13|1|tues
+2017-08-30 13:57:19 - {"ref_message_id":"13","sender_id":"1","message":"tues","request_url":"reply=0&value=0&number=447960759867&network=INTERNATIONAL&message=jayson101%3A+tues&currency=gbp&cc=psychiccontact&title=68899&ekey=1a989ce5a9b504b267a810be41c8d114"}
+2017-08-30 13:57:19 - SUCCESS
+2017-08-30 14:58:13 - 13|4|on the 25th day of December
+2017-08-30 14:58:13 - Random Message
+2017-08-30 14:58:14 - {"ref_message_id":"13","sender_id":"4","message":"on the 25th day of December","request_url":"reply=0&value=1.5&number=447960759867&network=INTERNATIONAL&message=joy101%3A+on+the+25th+day+of+December&currency=gbp&cc=psychiccontact&title=68899&ekey=1a989ce5a9b504b267a810be41c8d114"}
+2017-08-30 14:58:14 - SUCCESS
+2017-08-30 14:59:22 - 13|3|Only time will tell... reply to msg id 13 ..
+2017-08-30 14:59:22 - Random Message
+2017-08-30 14:59:24 - {"ref_message_id":"13","sender_id":"3","message":"Only time will tell... reply to msg id 13 ..","request_url":"reply=0&value=1.5&number=447960759867&network=INTERNATIONAL&message=eric101%3A+Only+time+will+tell...+reply+to+msg+id+13+..&currency=gbp&cc=psychiccontact&title=68899&ekey=1a989ce5a9b504b267a810be41c8d114"}
+2017-08-30 14:59:24 - SUCCESS
+2017-08-30 15:00:32 - 11|3|reply to msg id 11
+2017-08-30 15:00:33 - {"ref_message_id":"11","sender_id":"3","message":"reply to msg id 11","request_url":"reply=0&value=0&number=447960759867&network=INTERNATIONAL&message=eric101%3A+reply+to+msg+id+11&currency=gbp&cc=psychiccontact&title=68899&ekey=1a989ce5a9b504b267a810be41c8d114"}
+2017-08-30 15:00:33 - SUCCESS
+2017-08-30 15:00:33 - 11|3|reply to msg id 11
+2017-08-30 15:00:33 - Message is not yet marked as read
+2017-08-30 15:03:54 - 8|3|No . reply to msg id 8.
+2017-08-30 15:03:54 - Random Message
+2017-08-30 15:03:56 - {"ref_message_id":"8","sender_id":"3","message":"No . reply to msg id 8.","request_url":"reply=0&value=1.5&number=447799906908&network=INTERNATIONAL&message=eric101%3A+No+.+reply+to+msg+id+8.&currency=gbp&cc=psychiccontact&title=68899&ekey=1a989ce5a9b504b267a810be41c8d114"}
+2017-08-30 15:03:56 - SUCCESS
+2017-08-30 15:04:06 - 8|4|yes definitely!
+2017-08-30 15:04:06 - Random Message
+2017-08-30 15:04:08 - {"ref_message_id":"8","sender_id":"4","message":"yes definitely!","request_url":"reply=0&value=1.5&number=447799906908&network=INTERNATIONAL&message=joy101%3A+yes+definitely%21&currency=gbp&cc=psychiccontact&title=68899&ekey=1a989ce5a9b504b267a810be41c8d114"}
+2017-08-30 15:04:08 - SUCCESS
+2017-08-30 15:20:22 - 14|42|tonight!!!
+2017-08-30 15:20:22 - Random Message
+2017-08-30 15:20:23 - {"ref_message_id":"14","sender_id":"42","message":"tonight!!!","request_url":"reply=0&value=0&number=447960759867&network=INTERNATIONAL&message=TestReader%3A+tonight%21%21%21&currency=gbp&cc=psychiccontact&title=68899&ekey=1a989ce5a9b504b267a810be41c8d114"}
+2017-08-30 15:20:23 - SUCCESS
+2017-08-30 15:20:43 - 14|4|tomorrow!!!
+2017-08-30 15:20:43 - Random Message
+2017-08-30 15:20:44 - {"ref_message_id":"14","sender_id":"4","message":"tomorrow!!!","request_url":"reply=0&value=1.5&number=447960759867&network=INTERNATIONAL&message=joy101%3A+tomorrow%21%21%21&currency=gbp&cc=psychiccontact&title=68899&ekey=1a989ce5a9b504b267a810be41c8d114"}
+2017-08-30 15:20:44 - SUCCESS
+2017-08-30 15:21:12 - 14|3|Good Luck will come soon ... reply to msg id 14..
+2017-08-30 15:21:12 - Random Message
+2017-08-30 15:21:13 - {"ref_message_id":"14","sender_id":"3","message":"Good Luck will come soon ... reply to msg id 14..","request_url":"reply=0&value=1.5&number=447960759867&network=INTERNATIONAL&message=eric101%3A+Good+Luck+will+come+soon+...+reply+to+msg+id+14..&currency=gbp&cc=psychiccontact&title=68899&ekey=1a989ce5a9b504b267a810be41c8d114"}
+2017-08-30 15:21:13 - SUCCESS
+2017-08-30 15:35:17 - 15|3|Yes . msg reply to id 15 --- exclusive to reader
+2017-08-30 15:35:18 - {"ref_message_id":"15","sender_id":"3","message":"Yes . msg reply to id 15 --- exclusive to reader","request_url":"reply=0&value=0&number=447960759867&network=INTERNATIONAL&message=eric101%3A+Yes+.+msg+reply+to+id+15+---+exclusive+to+reader&currency=gbp&cc=psychiccontact&title=68899&ekey=1a989ce5a9b504b267a810be41c8d114"}
+2017-08-30 15:35:18 - SUCCESS
+2017-08-30 15:35:18 - 15|3|Yes . msg reply to id 15 --- exclusive to reader
+2017-08-30 15:35:18 - Message is not yet marked as read
+2017-08-30 15:39:41 - 8|42|yes, buy a ticket now!
+2017-08-30 15:39:41 - Random Message
+2017-08-30 15:39:43 - {"ref_message_id":"8","sender_id":"42","message":"yes, buy a ticket now!","request_url":"reply=0&value=1.5&number=447799906908&network=INTERNATIONAL&message=TestReader%3A+yes%2C+buy+a+ticket+now%21&currency=gbp&cc=psychiccontact&title=68899&ekey=1a989ce5a9b504b267a810be41c8d114"}
+2017-08-30 15:39:43 - SUCCESS
+2017-08-30 15:40:45 - 16|3|It's cloudy and humid .... reply to msg id 16...
+2017-08-30 15:40:46 - {"ref_message_id":"16","sender_id":"3","message":"It's cloudy and humid .... reply to msg id 16...","request_url":"reply=0&value=0&number=447960759867&network=INTERNATIONAL&message=eric101%3A+It%27s+cloudy+and+humid+....+reply+to+msg+id+16...&currency=gbp&cc=psychiccontact&title=68899&ekey=1a989ce5a9b504b267a810be41c8d114"}
+2017-08-30 15:40:46 - SUCCESS

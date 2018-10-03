@@ -1,0 +1,33 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2017-10-27 02:12:20 --> Severity: Warning --> Invalid argument supplied for foreach() /home/apptextpsychic1002/htdoc/text-a-psychic.com/application/views/template/footer.php 8
+ERROR - 2017-10-27 09:31:58 --> Severity: Warning --> Invalid argument supplied for foreach() /home/apptextpsychic1002/htdoc/text-a-psychic.com/application/views/template/footer.php 8
+ERROR - 2017-10-27 17:35:02 --> Severity: Warning --> Invalid argument supplied for foreach() /home/apptextpsychic1002/htdoc/text-a-psychic.com/application/views/template/footer.php 8
+ERROR - 2017-10-27 17:41:34 --> Severity: Warning --> Invalid argument supplied for foreach() /home/apptextpsychic1002/htdoc/text-a-psychic.com/application/views/template/footer.php 8
+ERROR - 2017-10-27 20:32:45 --> Severity: Warning --> Invalid argument supplied for foreach() /home/apptextpsychic1002/htdoc/text-a-psychic.com/application/views/template/footer.php 8
+ERROR - 2017-10-27 20:34:35 --> Severity: Warning --> Invalid argument supplied for foreach() /home/apptextpsychic1002/htdoc/text-a-psychic.com/application/views/template/footer.php 8
+ERROR - 2017-10-27 22:30:50 --> Severity: Warning --> Invalid argument supplied for foreach() /home/apptextpsychic1002/htdoc/text-a-psychic.com/application/views/template/footer.php 8
+ERROR - 2017-10-27 22:31:25 --> Severity: Warning --> Invalid argument supplied for foreach() /home/apptextpsychic1002/htdoc/text-a-psychic.com/application/views/template/footer.php 8
+ERROR - 2017-10-27 22:31:25 --> Severity: Warning --> Invalid argument supplied for foreach() /home/apptextpsychic1002/htdoc/text-a-psychic.com/application/views/template/footer.php 8
+ERROR - 2017-10-27 22:31:57 --> Severity: Warning --> Invalid argument supplied for foreach() /home/apptextpsychic1002/htdoc/text-a-psychic.com/application/views/template/footer.php 8
+ERROR - 2017-10-27 22:31:57 --> Severity: Warning --> Invalid argument supplied for foreach() /home/apptextpsychic1002/htdoc/text-a-psychic.com/application/views/template/footer.php 8
+ERROR - 2017-10-27 22:32:17 --> Severity: Warning --> Invalid argument supplied for foreach() /home/apptextpsychic1002/htdoc/text-a-psychic.com/application/views/template/footer.php 8
+ERROR - 2017-10-27 22:32:17 --> Severity: Warning --> Invalid argument supplied for foreach() /home/apptextpsychic1002/htdoc/text-a-psychic.com/application/views/template/footer.php 8
+ERROR - 2017-10-27 22:32:26 --> Severity: Warning --> Invalid argument supplied for foreach() /home/apptextpsychic1002/htdoc/text-a-psychic.com/application/views/template/footer.php 8
+ERROR - 2017-10-27 22:32:26 --> Severity: Warning --> Invalid argument supplied for foreach() /home/apptextpsychic1002/htdoc/text-a-psychic.com/application/views/template/footer.php 8
+ERROR - 2017-10-27 22:32:49 --> Severity: Warning --> Invalid argument supplied for foreach() /home/apptextpsychic1002/htdoc/text-a-psychic.com/application/views/template/footer.php 8
+ERROR - 2017-10-27 22:32:49 --> Severity: Warning --> Invalid argument supplied for foreach() /home/apptextpsychic1002/htdoc/text-a-psychic.com/application/views/template/footer.php 8
+ERROR - 2017-10-27 22:33:22 --> Severity: Warning --> Invalid argument supplied for foreach() /home/apptextpsychic1002/htdoc/text-a-psychic.com/application/views/template/footer.php 8
+ERROR - 2017-10-27 22:33:23 --> Severity: Warning --> Invalid argument supplied for foreach() /home/apptextpsychic1002/htdoc/text-a-psychic.com/application/views/template/footer.php 8
+ERROR - 2017-10-27 22:38:45 --> Severity: Warning --> Invalid argument supplied for foreach() /home/apptextpsychic1002/htdoc/text-a-psychic.com/application/views/template/footer.php 8
+ERROR - 2017-10-27 22:38:46 --> Severity: Warning --> Invalid argument supplied for foreach() /home/apptextpsychic1002/htdoc/text-a-psychic.com/application/views/template/footer.php 8
+ERROR - 2017-10-27 22:38:47 --> Severity: Warning --> Invalid argument supplied for foreach() /home/apptextpsychic1002/htdoc/text-a-psychic.com/application/views/template/footer.php 8
+ERROR - 2017-10-27 22:38:47 --> Severity: Warning --> Invalid argument supplied for foreach() /home/apptextpsychic1002/htdoc/text-a-psychic.com/application/views/template/footer.php 8
+ERROR - 2017-10-27 22:38:47 --> Severity: Warning --> Invalid argument supplied for foreach() /home/apptextpsychic1002/htdoc/text-a-psychic.com/application/views/template/footer.php 8
+ERROR - 2017-10-27 22:38:47 --> Severity: Warning --> Invalid argument supplied for foreach() /home/apptextpsychic1002/htdoc/text-a-psychic.com/application/views/template/footer.php 8
+ERROR - 2017-10-27 22:38:48 --> Severity: Warning --> Invalid argument supplied for foreach() /home/apptextpsychic1002/htdoc/text-a-psychic.com/application/views/template/footer.php 8
+ERROR - 2017-10-27 22:38:48 --> Severity: Warning --> Invalid argument supplied for foreach() /home/apptextpsychic1002/htdoc/text-a-psychic.com/application/views/template/footer.php 8
+ERROR - 2017-10-27 22:38:49 --> Severity: Warning --> Invalid argument supplied for foreach() /home/apptextpsychic1002/htdoc/text-a-psychic.com/application/views/template/footer.php 8
+ERROR - 2017-10-27 22:38:49 --> Severity: Warning --> Invalid argument supplied for foreach() /home/apptextpsychic1002/htdoc/text-a-psychic.com/application/views/template/footer.php 8
+ERROR - 2017-10-27 23:10:29 --> Severity: Warning --> Invalid argument supplied for foreach() /home/apptextpsychic1002/htdoc/text-a-psychic.com/application/views/template/footer.php 8
+ERROR - 2017-10-27 23:18:27 --> Severity: Warning --> Invalid argument supplied for foreach() /home/apptextpsychic1002/htdoc/text-a-psychic.com/application/views/template/footer.php 8

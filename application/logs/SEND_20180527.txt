@@ -1,0 +1,100 @@
+2018-05-27 12:05:39 - 72|1|test
+2018-05-27 12:05:39 - Message is not yet marked as read
+2018-05-27 12:29:18 - 72|1|test
+2018-05-27 12:31:08 - 72|1|test
+2018-05-27 12:31:08 - Message is not yet marked as read
+2018-05-27 12:32:59 - 72|1|test
+2018-05-27 12:33:19 - 72|1|test
+2018-05-27 13:28:21 - 72|1|test
+2018-05-27 13:35:28 - 72|1|test
+2018-05-27 13:36:59 - 72|1|test
+2018-05-27 13:36:59 - Message is not yet marked as read
+2018-05-27 13:41:33 - 72|1|test
+2018-05-27 13:41:33 - {"ref_message_id":"72","sender_id":"1","message":"test","request_url":"reply=0&value=0&mobile_number=&message=jayson101%3A+test&currency=gbp&cc=psychiccontact&title=68899&ekey=1a989ce5a9b504b267a810be41c8d114&type=reader"}
+2018-05-27 13:41:33 - 
+2018-05-27 13:41:33 - FAILED
+2018-05-27 13:41:54 - 72|1|test
+2018-05-27 13:41:54 - {"ref_message_id":"72","sender_id":"1","message":"test","request_url":"reply=0&value=0&mobile_number=&message=jayson101%3A+test&currency=gbp&cc=psychiccontact&title=68899&ekey=1a989ce5a9b504b267a810be41c8d114&type=reader"}
+2018-05-27 13:41:54 - 
+2018-05-27 13:41:54 - FAILED
+2018-05-27 13:42:22 - 72|1|test
+2018-05-27 13:42:22 - Message is not yet marked as read
+2018-05-27 13:42:22 - {"ref_message_id":"72","sender_id":"1","message":"test","request_url":"reply=0&value=0&mobile_number=&message=jayson101%3A+test&currency=gbp&cc=psychiccontact&title=68899&ekey=1a989ce5a9b504b267a810be41c8d114&type=reader"}
+2018-05-27 13:42:22 - 
+2018-05-27 13:42:22 - FAILED
+2018-05-27 13:51:12 - 70|1|test
+2018-05-27 13:51:12 - Message is not yet marked as read
+2018-05-27 13:51:12 - {"ref_message_id":"70","sender_id":"1","message":"test","request_url":"reply=0&value=0&mobile_number=&message=jayson101%3A+test&currency=gbp&cc=psychiccontact&title=68899&ekey=1a989ce5a9b504b267a810be41c8d114&type=reader"}
+2018-05-27 13:51:12 - 
+2018-05-27 13:51:12 - FAILED
+2018-05-27 13:51:24 - 70|1|test
+2018-05-27 13:51:24 - Message is not yet marked as read
+2018-05-27 13:55:23 - 70|1|test
+2018-05-27 13:55:23 - Message is not yet marked as read
+2018-05-27 13:55:42 - 70|1|test
+2018-05-27 13:55:42 - Message is not yet marked as read
+2018-05-27 13:55:57 - 70|1|test
+2018-05-27 13:55:57 - Message is not yet marked as read
+2018-05-27 13:57:55 - 70|1|test
+2018-05-27 13:57:55 - Message is not yet marked as read
+2018-05-27 13:58:00 - 70|1|test
+2018-05-27 13:58:00 - Message is not yet marked as read
+2018-05-27 13:58:14 - 70|1|test
+2018-05-27 13:58:14 - Message is not yet marked as read
+2018-05-27 13:58:14 - {"ref_message_id":"70","sender_id":"1","message":"test","request_url":"reply=0&value=0&mobile_number=&message=jayson101%3A+test&currency=gbp&cc=psychiccontact&title=68899&ekey=1a989ce5a9b504b267a810be41c8d114&type=reader"}
+2018-05-27 13:58:14 - 
+2018-05-27 13:58:14 - FAILED
+2018-05-27 13:58:34 - 70|1|test
+2018-05-27 13:58:34 - Message is not yet marked as read
+2018-05-27 13:58:40 - 70|1|test
+2018-05-27 13:58:40 - Message is not yet marked as read
+2018-05-27 13:59:52 - 70|1|test
+2018-05-27 13:59:52 - Message is not yet marked as read
+2018-05-27 14:01:24 - 70|1|test
+2018-05-27 14:01:25 - Message is not yet marked as read
+2018-05-27 14:02:06 - 70|1|test
+2018-05-27 14:02:06 - Message is not yet marked as read
+2018-05-27 14:02:31 - 70|1|test
+2018-05-27 14:02:31 - Message is not yet marked as read
+2018-05-27 14:02:51 - 70|1|test
+2018-05-27 14:02:51 - Message is not yet marked as read
+2018-05-27 14:03:14 - 70|1|test
+2018-05-27 14:03:14 - Message is not yet marked as read
+2018-05-27 14:11:47 - 70|1|test
+2018-05-27 14:12:01 - 70|1|test
+2018-05-27 14:12:20 - 70|1|test
+2018-05-27 14:12:33 - 70|1|test
+2018-05-27 14:12:58 - 70|1|test
+2018-05-27 14:52:20 - 70|1|test
+2018-05-27 14:52:44 - 70|1|test
+2018-05-27 14:57:17 - 70|1|test
+2018-05-27 15:04:11 - 70|1|test
+2018-05-27 15:04:11 - Random Message
+2018-05-27 15:04:47 - 70|1|test
+2018-05-27 15:04:47 - Random Message
+2018-05-27 15:04:52 - 70|1|test
+2018-05-27 15:04:52 - Random Message
+2018-05-27 15:42:30 - 70|1|test
+2018-05-27 15:42:31 - Random Message
+2018-05-27 20:49:31 - 70|1|test
+2018-05-27 20:49:31 - Random Message
+2018-05-27 20:53:44 - 70|1|test
+2018-05-27 20:53:44 - Random Message
+2018-05-27 20:53:53 - {"ref_message_id":"70","sender_id":"1","message":"test","request_url":"reply=0&value=0&mobile_number=639098406622&message=jayson101%3A+test&currency=gbp&cc=psychiccontact&title=68899&ekey=1a989ce5a9b504b267a810be41c8d114&type=reader"}
+2018-05-27 20:53:53 - {"data":{"message":{"status":202,"response":{"api_id":"0259d81e-61ad-11e8-bbfd-02af11be3b72","message":"message(s) queued","message_uuid":["025a35a2-61ad-11e8-bbfd-02af11be3b72"]}}},"success":true,"errors":[]}
+2018-05-27 21:00:43 - 70|1|test
+2018-05-27 21:00:43 - Random Message
+2018-05-27 21:00:45 - {"ref_message_id":"70","sender_id":"1","message":"test","request_url":"reply=0&value=0&mobile_number=639098406622&message=jayson101%3A+test&currency=gbp&cc=psychiccontact&title=68899&ekey=1a989ce5a9b504b267a810be41c8d114&type=reader"}
+2018-05-27 21:00:45 - {"data":{"message":{"status":202,"response":{"api_id":"f7dcef9c-61ad-11e8-96c8-06f1d9fb32b2","message":"message(s) queued","message_uuid":["f7dd5ac2-61ad-11e8-96c8-06f1d9fb32b2"]}}},"success":true,"errors":[]}
+2018-05-27 21:04:40 - 70|1|test
+2018-05-27 21:04:40 - Random Message
+2018-05-27 21:04:42 - {"ref_message_id":"70","sender_id":"1","message":"test","request_url":"reply=0&value=0&mobile_number=639098406622&message=jayson101%3A+test&currency=gbp&cc=psychiccontact&title=68899&ekey=1a989ce5a9b504b267a810be41c8d114&type=reader"}
+2018-05-27 21:04:43 - {"data":{"message":{"status":202,"response":{"api_id":"857ae912-61ae-11e8-8464-02f0efebfcdc","message":"message(s) queued","message_uuid":["857b4a88-61ae-11e8-8464-02f0efebfcdc"]}}},"success":true,"errors":[]}
+2018-05-27 21:05:15 - 70|1|test
+2018-05-27 21:05:15 - Random Message
+2018-05-27 21:05:16 - {"ref_message_id":"70","sender_id":"1","message":"test","request_url":"reply=0&value=0&mobile_number=639098406622&message=jayson101%3A+test&currency=gbp&cc=psychiccontact&title=68899&ekey=1a989ce5a9b504b267a810be41c8d114&type=reader"}
+2018-05-27 21:05:16 - {"data":{"message":{"status":202,"response":{"api_id":"997f3346-61ae-11e8-bbfd-02af11be3b72","message":"message(s) queued","message_uuid":["997f90fc-61ae-11e8-bbfd-02af11be3b72"]}}},"success":true,"errors":[]}
+2018-05-27 22:59:25 - 70|1|test
+2018-05-27 22:59:25 - Random Message
+2018-05-27 22:59:27 - {"ref_message_id":"70","sender_id":"1","message":"test","request_url":"reply=0&value=0&mobile_number=639098406622&message=jayson101%3A+test&currency=gbp&cc=psychiccontact&title=68899&ekey=1a989ce5a9b504b267a810be41c8d114&type=reader"}
+2018-05-27 22:59:27 - {"data":{"message":{"status":202,"response":{"api_id":"8d47eb26-61be-11e8-a06c-0605e3612a06","message":"message(s) queued","message_uuid":["8d4846a2-61be-11e8-a06c-0605e3612a06"]}}},"success":true,"errors":[]}
